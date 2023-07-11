@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shiying Zhang (张诗颖)"
-  avatar           : "profile.png"
+  name             : "Shiying Zhang \n (张诗颖)"
+  avatar           : "profile.jpg"
   bio              : "Tsinghua University, major in double Bachelors degree in Computer Science and Finance"
   location         : "Beijing / Shanghai, China; Oxford, UK"
   employer         :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
