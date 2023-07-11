@@ -6,9 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-------
+---
 
-
+\n
 This is the homepage of Shiying Zhang（张诗颖）, a sophomore undergraduate at Tsinghua University, majoring in Computer Science and Finance (double bachelors degree). During my junior year, I'll be attending Oxford University as an exchange student, which is fully sponsored by the prestigious Yinghua Scholarship（清华大学英华学者项目）.
 
 
