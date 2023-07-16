@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Tsinghua Overall-Merit Scholarship Presentation"
+excerpt: "An introduction to me myself by the end of my freshman year.<br/><img src='/images/scholarship_profile.png', style="zoom:10%;" >"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Here is the PowerPoint where I use in presentation for my Tsinghua Overall-Merit Scholarship. You may find more about me during my freshman year throught it.
