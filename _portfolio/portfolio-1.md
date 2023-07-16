@@ -79,8 +79,8 @@ Here is the PowerPoint where I used in presentation for my Tsinghua Overall-Meri
     <img class="slide" id="slide" src="/images/portfolio_1/slide1.png">
   </div>
   <div class="navigation">
-    <button onclick="previousSlide()">Previous</button>
-    <button onclick="nextSlide()">Next</button>
+    <button onclick="previousSlide()">Previous Page</button>
+    <button onclick="nextSlide()">Next Page</button>
   </div>
 </body>
 </html>
