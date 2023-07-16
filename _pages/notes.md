@@ -15,7 +15,7 @@ Here, you may find out some notes I took in Markdown format during my study at T
 
 ## Data Structure and Algorithm
 
-I took Data Structure and Algorithm (Grade: B+) taught by Prof [JUNHUI DENG](https://www.cs.tsinghua.edu.cn/info/1137/3886.htm) during my first semester of my sophomore year. 
+I took Data Structure and Algorithm taught by Prof [JUNHUI DENG](https://www.cs.tsinghua.edu.cn/info/1137/3886.htm) during my first semester of my sophomore year. 
 
 + [Data Structure and Algorithm Course Note by Shiying](/files/DSA.html): This nearly 100-page, 45,000-word note comprehensively covers all course materials and provides detailed explanations of key details and insightful reflections. The included images in the notes are sourced from the teacher's lecture slides.
 
@@ -31,7 +31,7 @@ I took Data Structure and Algorithm (Grade: B+) taught by Prof [JUNHUI DENG](htt
 
 ## Computer System
 
-I took Computer System (Grade: B+) taught by Prof [YOUHUI ZHANG](https://www.cs.tsinghua.edu.cn/info/1107/3506.htm) during my first semester of my sophomore year. This 23,000-word note comprehensively covers all course materials and provides detailed explanations of key details and insightful reflections. The included images in the notes are sourced from the teacher's lecture slides.
+I took Computer System taught by Prof [YOUHUI ZHANG](https://www.cs.tsinghua.edu.cn/info/1107/3506.htm) during my first semester of my sophomore year. This 23,000-word note comprehensively covers all course materials and provides detailed explanations of key details and insightful reflections. The included images in the notes are sourced from the teacher's lecture slides.
 
 [Computer System Course Note by Shiying](/files/ICS.html)
 
