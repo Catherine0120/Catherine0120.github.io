@@ -1,6 +1,6 @@
 ---
 title: "Tsinghua Overall-Merit Scholarship Presentation"
-excerpt: "An introduction to me myself by the end of my freshman year.<br/> <img src='/images/portfolio_1/slide1.png' styles="zoom:80%"/>"
+excerpt: "An introduction to me myself by the end of my freshman year.<br/> <img src='/images/portfolio_1/slide1.png' style="zoom:80%"/>"
 collection: portfolio
 ---
 
@@ -42,10 +42,10 @@ Here is the PowerPoint where I used in presentation for my Tsinghua Overall-Meri
     .navigation {
       display: flex;
       justify-content: center;
-      margin-top: 5px;
+      margin-top: 20px;
     }
     .navigation button {
-      margin: 0 5px;
+      margin: 0 10px;
     }
   </style>
   <script>
