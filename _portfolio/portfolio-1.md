@@ -1,12 +1,11 @@
 ---
 title: "Tsinghua Overall-Merit Scholarship Presentation"
-excerpt: "An introduction to me myself by the end of my freshman year.<br/> <img src='/images/scholarship_profile.png' style='zoom:10%;' />"
+excerpt: "An introduction to me myself by the end of my freshman year.<br/> <img src='/images/scholarship_profile.png' style='zoom:7%;' />"
 collection: portfolio
 ---
 
 Here is the PowerPoint where I used in presentation for my Tsinghua Overall-Merit Scholarship. You may find more about me during my freshman year through it.
 
-<!DOCTYPE html>
 <html>
 <head>
   <style>
@@ -59,14 +58,14 @@ Here is the PowerPoint where I used in presentation for my Tsinghua Overall-Meri
     var slides = [];
     var currentSlide = 0;
 
-    slides.push("/imaged/portfolio_1/slide1.png");
-    slides.push("/imaged/portfolio_1/slide2.png");
-    slides.push("/imaged/portfolio_1/slide3.png");
-    slides.push("/imaged/portfolio_1/slide4.png");
-    slides.push("/imaged/portfolio_1/slide5.png");
-    slides.push("/imaged/portfolio_1/slide6.png");
-    slides.push("/imaged/portfolio_1/slide7.png");
-    slides.push("/imaged/portfolio_1/slide8.png");
+    slides.push("/images/portfolio_1/slide1.png");
+    slides.push("/images/portfolio_1/slide2.png");
+    slides.push("/images/portfolio_1/slide3.png");
+    slides.push("/images/portfolio_1/slide4.png");
+    slides.push("/images/portfolio_1/slide5.png");
+    slides.push("/images/portfolio_1/slide6.png");
+    slides.push("/images/portfolio_1/slide7.png");
+    slides.push("/images/portfolio_1/slide8.png");
 
     function changeSlide(index) {
       // Get the slide container and the slide element
@@ -92,10 +91,6 @@ Here is the PowerPoint where I used in presentation for my Tsinghua Overall-Meri
   </script>
 </head>
 <body>
-  <div class="marquee">
-    <span>Here goes your rolling text or content...</span>
-  </div>
-
   <div class="slide-container" id="slide-container">
     <img class="slide" id="slide" src="/images/portfolio_1/slide1.png">
   </div>
