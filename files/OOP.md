@@ -3491,7 +3491,7 @@ for (int &x : arr) {func(x);}
    };
    
    int main() {
-       vector<People> vec = {{18,50}, {16, 40}};
+       vector<People> vec = { {18, 50}, {16, 40} };
        sort(vec.begin(), vec.end()); //1
        sort(vec.begin(), vec.end(), compByAge); //2
        sort(vec.begin(), vec.end(), AgeComp()); //3
