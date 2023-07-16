@@ -1,6 +1,6 @@
 ---
 title: "Tsinghua Overall-Merit Scholarship Presentation"
-excerpt: "An introduction to me myself by the end of my freshman year.<br/> <img src='/images/portfolio_1/slide1.png' style='zoom:60%;'/>"
+excerpt: "An introduction to me myself by the end of my freshman year.<br/> <img src='/images/portfolio_1/slide1.png' style='zoom:50%;'/>"
 collection: portfolio
 ---
 

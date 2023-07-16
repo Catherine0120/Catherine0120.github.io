@@ -39,8 +39,12 @@ I took Computer System taught by Prof [YOUHUI ZHANG](https://www.cs.tsinghua.edu
 
 
 
+<<<<<<< HEAD
 
 ## Introduction to Artificial Intelligence
+=======
+## Introductory to Artificial Intelligence
+>>>>>>> modified_v1
 
 I took IAI taught by Prof [SHAOPING MA](https://www.cs.tsinghua.edu.cn/info/1121/3556.htm) during my second semester of my sophomore year. This is a summary note of the key ideas of the course.
 
@@ -60,6 +64,11 @@ I took OOP taught by Prof [MINLIE HUANG](https://www.cs.tsinghua.edu.cn/info/112
 <iframe src="/files/OOP.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> modified_v1
 ## Econometrics
 
 I took Econometrics(1) (Grade: A) taught by Prof [LIANGJUN SU](https://www.sem.tsinghua.edu.cn/info/1206/32089.htm) during my first semester of my sophomore year and took Econometrics(2) (Grade: A+) taught by Prof [SAINAN JIN](https://www.tioe.tsinghua.edu.cn/info/1179/2211.htm) during my second semester of my sophomore year. Students are permitted to use a cheatsheet during exams for these courses. Therefore, I have prepared my cheatsheet below, which I believe encompasses the comprehensive structure and essential details of the course content.
@@ -74,6 +83,10 @@ I took Econometrics(1) (Grade: A) taught by Prof [LIANGJUN SU](https://www.sem.t
 <iframe src="/files/Econometrics_2.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 
+<<<<<<< HEAD
+=======
+## Investment
+>>>>>>> modified_v1
 
 
 ## Investment
