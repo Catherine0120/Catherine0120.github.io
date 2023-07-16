@@ -1,25 +1,24 @@
 ---
 permalink: /notes/
-title: "Academic Notes by Me"
+title: "Academic Notes by Shiying"
 excerpt: "My Gallery"
 author_profile: true
 redirect_from: 
   - /notes
 ---  
 
-</br>
 
 Here, you may find out some notes I took in Markdown format during my study at Tsinghua University.
 
 ## Econometrics
 
-I took Econometrics(1) (Grade: A) taught by Prof [LIANGJUN SU](https://www.sem.tsinghua.edu.cn/info/1206/32089.htm) during my first semester of my sophomore year and took Econometrics(2) (Grade: A+) taught by Prof [SAINAN JIN](https://www.tioe.tsinghua.edu.cn/info/1179/2211.htm) during my second semester of my sophomore year. Students are allowed to take paged of cheatsheet for the exams for these courses. So my cheatsheet are showned below which I believe contain the complete structure and important details of the courses.
+I took Econometrics(1) (Grade: A) taught by Prof [LIANGJUN SU](https://www.sem.tsinghua.edu.cn/info/1206/32089.htm) during my first semester of my sophomore year and took Econometrics(2) (Grade: A+) taught by Prof [SAINAN JIN](https://www.tioe.tsinghua.edu.cn/info/1179/2211.htm) during my second semester of my sophomore year. Students are permitted to use a cheatsheet during exams for these courses. Therefore, I have prepared my cheatsheet below, which I believe encompasses the comprehensive structure and essential details of the course content.
 
 [Econometrics(1) Cheatsheet by Shiying](/files/Econometrics_1.pdf)
 
-[Econometrics(2) Cheatsheet by Shiying](/files/Econometrics_2.pdf)
-
 <iframe src="/files/Econometrics_1.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+[Econometrics(2) Cheatsheet by Shiying](/files/Econometrics_2.pdf)
 
 <iframe src="/files/Econometrics_2.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
@@ -29,7 +28,27 @@ I took Investment (Grade: A) taught by Prof [YINGZI ZHU](https://www.sem.tsinghu
 
 [Investment Cheatsheet by Shiying](/files/Investment.md)
 
-<iframe src="/files/Investment.md" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<head>
+  <script src="https://unpkg.com/remark@12"></script>
+  <script src="https://unpkg.com/remark-reveal"></script>
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section data-markdown="/files/Investment.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
+    </div>
+  </div>
+  <script>
+    var slideshow = remark.create({
+      highlightStyle: 'github',
+      highlightLines: true,
+      sourceUrl: 'data-markdown',
+      countIncrementalSlides: false
+    });
+  </script>
+</body>
+<!-- 
+<iframe src="/files/Investment.md" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
 ## Data Structure and Algorithm
 
