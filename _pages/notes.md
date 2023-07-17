@@ -81,6 +81,6 @@ I took Econometrics(1) (Grade: A) taught by Prof [LIANGJUN SU](https://www.sem.t
 
 I took Investment (Grade: A) taught by Prof [YINGZI ZHU](https://www.sem.tsinghua.edu.cn/info/1207/31884.htm) during my second semester of my sophomore year. This note is a summary of the key ideas of the course and it really helped a lot during my review for the final exam.
 
-[Investment Cheatsheet by Shiying](/files/Investment.html)
+[Investment Summary Note by Shiying](/files/Investment.html)
 
 <iframe src="/files/Investment.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
