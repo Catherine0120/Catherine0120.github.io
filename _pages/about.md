@@ -18,9 +18,28 @@ At the same time, I am also an energetic person who lust for life and am eager f
 I value all unique experiences and strive to stay active in life and explore my own unique path.
 
 
+Current Status
+-----
+
+Now it's my summer break between my sophomore and junior year. And here is my schedule for this holiday:
+
+> **2023 Summer Timetable**
+> - [x] 6.22(Thu) - 6.25(Sun)：【上海】上海招生
+> - [x] 6.26(Mon) - 7.8(Sat)：【北京】1字班军训
+> - [ ] 7.12(Tue) - 8.3(Thu)：【上海】信弘天禾量化研究实习
+> - [ ] 8.5(Sat) - 8.17(Thu)：【西雅图】美国西雅图实践
+> - [ ] 8.28(Mon) - 9.22(Fri)：【北京】淡水泉投研实习
+> - [ ] 9.25(Mon) - 9.30(Sat): 【上海】
+> - [ ] 10.1(Sun)：【牛津】去Oxford开启交换学期
+
+I thought this schedule is really fantastic for me. For one thing, I'm always interested in Quant-related job and am excited to have the opportunity to intern at XHTH, a 8.5~9 billion RMB AUM quant hedge fund. For another, I'm also curious about the comparison between traditional hedge fund and quant hedge fund, and I'm eager to learn more about the industry. Spring Capital, the top industry player, would offer me this opportunity. 
+
+Furthermore, this summer inits a new chapter of my college life. They key idea is the **exploration of the world**. I'll be going to Seattle, the city of Microsoft, Amazon and Starbucks, to explore the American culture and investigate into these IT giants. I'll also be going to Oxford, the city of the oldest university in the English-speaking world, to explore the European culture and academically, how they teach Economics. As well, Beijing and Shanghai are two cities I'm always familiar with. It's time to cherish the time with my friends and family here before saying a brief goodbye to them.
+
 More Info
 ------
 My hobbies include Debating, Hockey and Travelling.
+
 
 Contact
 ------
