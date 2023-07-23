@@ -21,10 +21,10 @@ So, without further ado, let's dive right in.
 
 ## Who am I?
 
-+ a debater and thinker of the ultimate meaning of life, world, and the universe
++ A debater and thinker of the ultimate meaning of life, world and the universe
 
-+ an optimist who embrace her life with unbridled passion and curiosity, placing much emphasis on unknown experiences and adventures
++ An optimist who embraces her life with unbridled passion and curiosity, placing much emphasis on unknown experiences and adventures
 
-+ an executor who takes action and makes things happen
++ An executor who takes action and makes things happen
 
-+ a person who revels in romantic relations and finds solace in poetry and literature
++ A person who revels in romantic relations and finds solace in poetry, literature and love
