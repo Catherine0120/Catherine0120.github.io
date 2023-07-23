@@ -24,13 +24,13 @@ Current Status
 Now it's my summer break between my sophomore and junior year. And here is my schedule for this holiday:
 
 > **2023 Summer Timetable**
-> - [x] 6.22(Thu) - 6.25(Sun)：【上海】上海招生
-> - [x] 6.26(Mon) - 7.8(Sat)：【北京】1字班军训
-> - [ ] 7.12(Tue) - 8.3(Thu)：【上海】信弘天禾量化研究实习
-> - [ ] 8.5(Sat) - 8.17(Thu)：【西雅图】美国西雅图实践
-> - [ ] 8.28(Mon) - 9.22(Fri)：【北京】淡水泉投研实习
-> - [ ] 9.25(Mon) - 9.30(Sat): 【上海】
-> - [ ] 10.1(Sun)：【牛津】去Oxford开启交换学期
+> [x] 6.22(Thu) - 6.25(Sun)：【上海】上海招生
+> [x] 6.26(Mon) - 7.8(Sat)：【北京】1字班军训
+> [ ] 7.12(Tue) - 8.3(Thu)：【上海】信弘天禾量化研究实习
+> [ ] 8.5(Sat) - 8.17(Thu)：【西雅图】美国西雅图实践
+> [ ] 8.28(Mon) - 9.22(Fri)：【北京】淡水泉投研实习
+> [ ] 9.25(Mon) - 9.30(Sat): 【上海】
+> [ ] 10.1(Sun)：【牛津】去Oxford开启交换学期
 
 I thought this schedule is really fantastic for me. For one thing, I'm always interested in Quant-related job and am excited to have the opportunity to intern at XHTH, a 8.5~9 billion RMB AUM quant hedge fund. For another, I'm also curious about the comparison between traditional hedge fund and quant hedge fund, and I'm eager to learn more about the industry. Spring Capital, the top industry player, would offer me this opportunity. 
 
