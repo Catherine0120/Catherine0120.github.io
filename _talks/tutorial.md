@@ -1,13 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Thought Summary After Visit to Seattle"
 collection: talks
-type: "Tutorial"
-permalink: /talks/tutorial
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+type: "Thoughts"
+permalink: /talks/Thoughts-Seattle
+venue: "flight from Seattle to Beijing"
+date: 2023-08-17
+location: "Seattle WA, USA"
 ---
 
-[More information here](http://exampleurl.com)
-
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Here is the summary of thoughts during my summer holiday, approcimately from July to August 2023. I finished summarizing all these and decided to post them on the flight from Seattle to Beijing, thus the title.
