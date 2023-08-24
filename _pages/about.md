@@ -28,7 +28,7 @@ Now it's summer break between my sophomore and junior year. Here is my schedule 
 > - [x] 6.26(Mon) - 7.8(Sat)：【北京】1字班军训
 > - [x] 7.12(Tue) - 8.3(Thu)：【上海】信弘天禾量化研究实习
 > - [x] 8.5(Sat) - 8.17(Thu)：【西雅图】美国西雅图实践
-> - [ ] 8.20(Sun) - 8.24(Thu)：【阿那亚】旅游
+> - [ ] 8.22(Tue) - 8.25(Fri)：【秦皇岛阿那亚】旅游 with Family
 > - [ ] 8.28(Mon) - 9.22(Fri)：【北京】淡水泉投研实习
 > - [ ] 9.25(Mon) - 9.30(Sat): 【上海】
 > - [ ] 10.1(Sun)：【牛津】去Oxford开启交换学期
