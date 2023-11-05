@@ -24,16 +24,17 @@ Current Status
 Now it's summer break between my sophomore and junior year. Here is my schedule for this holiday:
 
 > **2023 Summer Timetable**
-> - [x] 6.22(Thu) - 6.25(Sun)：【上海】上海招生
-> - [x] 6.26(Mon) - 7.8(Sat)：【北京】1字班军训
-> - [x] 7.12(Tue) - 8.3(Thu)：【上海】信弘天禾量化研究实习
-> - [x] 8.5(Sat) - 8.17(Thu)：【西雅图】美国西雅图实践
-> - [ ] 8.22(Tue) - 8.25(Fri)：【秦皇岛阿那亚】旅游 with Family
-> - [ ] 8.28(Mon) - 9.22(Fri)：【北京】淡水泉投研实习
-> - [ ] 9.25(Mon) - 9.30(Sat): 【上海】
-> - [ ] 10.1(Sun)：【牛津】去Oxford开启交换学期
+> - [x] 6.22(Thu) - 6.25(Sun)：【北京 => **上海**】上海招生
+> - [x] 6.26(Mon) - 7.8(Sat)：【上海 => **北京**】1字班军训
+> - [x] 7.12(Tue) - 8.3(Thu)：【北京 => **上海**】信弘天禾QR实习
+> - [x] 8.5(Sat) - 8.17(Thu)：【上海 => 北京 => **西雅图**】计算机系实践
+> - [x] 8.22(Tue) - 8.25(Fri)：【西雅图 => 北京 => **秦皇岛**】阿那亚度假
+> - [x] 8.28(Mon) - 9.22(Fri)：【秦皇岛 => **北京**】淡水泉投研实习
+> - [x] 9.24(Mon) - 9.28(Sat): 【北京 => **上海**】回SHS + stay with yy
+> - [x] 9.26(Tue)：【上海 => **北京** => 上海】面试（当日往返）
+> - [x] 10.1(Sun)：【上海 => 伦敦 => **牛津**】交换 at Oxford
 
-I thought this schedule is really fantastic for me. For one thing, I'm always interested in Quant-related job and am excited to have the opportunity to intern at XHTH, a 8.5~9 billion RMB AUM quant hedge fund. For another, I'm also curious about the comparison between traditional hedge fund and quant hedge fund, and I'm eager to learn more about the industry. Spring Capital, the top industry player, would offer me this opportunity. 
+I thought this schedule is really fantastic for me. For one thing, I'm always interested in Quant-related job and am excited to have the opportunity to intern at XHTH, a 10 billion RMB AUM quant hedge fund. For another, I'm also curious about the comparison between traditional hedge fund and quant hedge fund, and I'm eager to learn more about the industry. Spring Capital, the top industry player, would offer me this opportunity. 
 
 Furthermore, this summer inits a new chapter of my college life -- with key idea: the **exploration of the world**. I'll be going to Seattle, the city of Microsoft, Amazon and Starbucks, to explore the American culture and investigate into these IT giants. I'll also be going to Oxford, the city of the oldest university in the English-speaking world, to explore the European culture and academically, how they teach Economics. As well, Beijing and Shanghai are two cities I'm always familiar with. It's time to cherish the time with my friends and family here before saying a brief goodbye to them.
 
@@ -44,6 +45,6 @@ My hobbies include Debating, Hockey and Travelling.
 
 Contact
 ------
-Email: catherinezhang0120@gmail.com, shiying-21@mails.tsinghua.edu.cn
+Email: catherinezhang0120@gmail.com | shiying-21@mails.tsinghua.edu.cn | shiying.zhang@new.ox.ac.uk
 
 Wechat: Catherine_zsy0120

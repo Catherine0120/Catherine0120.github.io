@@ -25,3 +25,4 @@ So, without further ado, let's dive right in.
 > + An optimist who embraces her life with unbridled passion and curiosity, placing much emphasis on unknown experiences and adventures
 > + An executor who takes action and makes things happen
 > + A person who revels in romantic relations and finds solace in poetry, literature and love
+> + MBTI = ENFJ
