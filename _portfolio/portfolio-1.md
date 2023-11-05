@@ -1,6 +1,6 @@
 ---
 title: "Tsinghua Overall-Merit Scholarship 2022-2023"
-excerpt: "An introduction to me myself by the end of my sophomore year.<br/> <img src='/images/portfolio_3/slide1.jpg' style='zoom:30%;'/>"
+excerpt: "An introduction to me myself by the end of my sophomore year.<br/> <img src='/images/portfolio_3/slide1.jpg' style='zoom:40%;'/>"
 collection: portfolio
 ---
 
