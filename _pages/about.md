@@ -21,18 +21,57 @@ I value all unique experiences and strive to stay active in life and explore my 
 Current Status
 -----
 
-Now it's summer break between my sophomore and junior year. Here is my schedule for this holiday:
+After Michaelmas term at Oxford, during which I took International Economics, Money and Banking and Machine Learning, I travelled around Europe during the Christmas vacation between Michaelmas and Hilary term. Here is my schedule:
+
+> 12.3-12.9 Scotland (Glasgow, Oban, Skye/Inverness, Edinburgh)
+> **France + Monaco**
+> 12.9-12.11 Lyon
+> 12.11-12.14 Nice + Cannes + Monaco
+>   12.12 Cannes
+>   12.13 Moncaco
+> **Spain**
+> 12.14-12.17 Barcelona
+> 12.17-12.19 Madrid
+> **Portugal**
+> 12.19-12.21 Lisbon
+> **Italy + Vatican**
+> 12.21-12.24 Rome + Vatican
+> 12.24-12.26 Florence
+> 12.26-12.27 Milan
+> **Switzerland**
+> 12.27-12.29 Geneva
+> 12.29 Bern
+> 12.29-12.31 Interlaken (Jungfrau)
+> 12.31 Lucerne
+> 12.31-1.2 Zurich
+> **France (again)**
+> 1.2-1.5 Paris
+>   1.4 Varseille
+
+Total: 34 days, 8 countries, 22 cities, with 8 friends in total 
+
+This is my first time travelling around Europe, self-planned and self-guided, for such a long time. I literally went to every corner of western Europe, from the northernmost point of Scotland to the southernmost point of Spain, from the westernmost point of Portugal to the easternmost point of Switzerland. Many sites and cities have left a deep impression on me, where I spent time exploring, city-walking, interacting with local people, and learning about the local culture. 
+
+You can find my travel diary [here](https://mp.weixin.qq.com/s?__biz=Mzk0MTYyMTczNg==&mid=2247483929&idx=1&sn=d21710137ca953c7632d12bf3760207e&chksm=c2ceea9ef5b9638861f36799013c71ee7a7cf3515b9c07eb126d96365d981b5925a5e0f885f2&token=795516037&lang=zh_CN#rd).
+
+Currently, I'm back to Oxford and am taking courses in Economics and Computer Science. I'll take Macroeconomics and Game Theory for Economics, and Deep Learning for Healthcare for Computer Science this term.
+
+
+Past Status
+-----
+
+The summer break between my sophomore and junior year. Here is my schedule:
 
 > **2023 Summer Timetable**
-> - [x] 6.22(Thu) - 6.25(Sun)：【北京 => **上海**】上海招生
-> - [x] 6.26(Mon) - 7.8(Sat)：【上海 => **北京**】1字班军训
-> - [x] 7.12(Tue) - 8.3(Thu)：【北京 => **上海**】信弘天禾QR实习
-> - [x] 8.5(Sat) - 8.17(Thu)：【上海 => 北京 => **西雅图**】计算机系实践
-> - [x] 8.22(Tue) - 8.25(Fri)：【西雅图 => 北京 => **秦皇岛**】阿那亚度假
-> - [x] 8.28(Mon) - 9.22(Fri)：【秦皇岛 => **北京**】淡水泉投研实习
-> - [x] 9.24(Mon) - 9.28(Sat): 【北京 => **上海**】回SHS + stay with yy
-> - [x] 9.26(Tue)：【上海 => **北京** => 上海】面试（当日往返）
-> - [x] 10.1(Sun)：【上海 => 伦敦 => **牛津**】交换 at Oxford
+> 6.22(Thu) - 6.25(Sun)：【北京 => **上海**】上海招生
+> 6.26(Mon) - 7.8(Sat)：【上海 => **北京**】1字班军训
+> 7.12(Tue) - 8.3(Thu)：【北京 => **上海**】信弘天禾QR实习
+> 8.5(Sat) - 8.17(Thu)：【上海 => 北京 => **西雅图**】计算机系实践
+> 8.22(Tue) - 8.25(Fri)：【西雅图 => 北京 => **秦皇岛**】阿那亚度假
+> 8.28(Mon) - 9.22(Fri)：【秦皇岛 => **北京**】淡水泉投研实习
+> 9.24(Mon) - 9.28(Sat): 【北京 => **上海**】回SHS + stay with yy
+> 9.26(Tue)：【上海 => **北京** => 上海】面试（当日往返）
+> 10.1(Sun)：【上海 => 伦敦 => **牛津**】交换 at Oxford
 
 I thought this schedule is really fantastic for me. For one thing, I'm always interested in Quant-related job and am excited to have the opportunity to intern at XHTH, a 10 billion RMB AUM quant hedge fund. For another, I'm also curious about the comparison between traditional hedge fund and quant hedge fund, and I'm eager to learn more about the industry. Spring Capital, the top industry player, would offer me this opportunity. 
 
