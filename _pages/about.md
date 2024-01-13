@@ -21,7 +21,9 @@ I value all unique experiences and strive to stay active in life and explore my 
 Current Status
 -----
 
-After Michaelmas term at Oxford, during which I took International Economics, Money and Banking and Machine Learning, I travelled around Europe during the Christmas vacation between Michaelmas and Hilary term. Here is my schedule:
+In Michaelmas term at Oxford, I took International Economics, Money and Banking and Machine Learning. Meanwhile, I'm very fortunate to be offered the summer internship at Goldman Sachs (Hong Kong), which I'll be joining in June 2024.
+
+I travelled around Europe during the Christmas vacation between Michaelmas and Hilary term. Here is my schedule:
 
 > 12.3-12.9 Scotland (Glasgow, Oban, Skye/Inverness, Edinburgh)
 > **France + Monaco**
