@@ -23,6 +23,8 @@ I am taking Game Theory taught by Prof [Peter Eso](https://www.economics.ox.ac.u
 
 I am taking Macroeconomics taught by Prof [Christopher Bowdler](https://www.economics.ox.ac.uk/people/christopher-bowdler-0) during Michaelmas Term of my junior year at Oxford University.
 
+[Macroeconomics Note by Shiying](/files/Macroeconomics.pdf)
+
 
 
 

@@ -16,9 +16,9 @@ redirect_from:
 
 You can also download my CV here:
 
-[Quant_CV_zhangshiying](https://Catherine0120.github.io/assets/CV2.pdf): I use this CV to apply for quant-related job positions 
+[Quant_CV_zhangshiying](https://Catherine0120.github.io/assets/CV_quant.pdf): I use this CV to apply for quant-related job positions 
 
-[Finance_CV_zhangshiying](https://Catherine0120.github.io/assets/CV.pdf): I use this CV to apply for other job positions in Finance industry
+[Finance_CV_zhangshiying](https://Catherine0120.github.io/assets/CV_fin.pdf): I use this CV to apply for other job positions in Finance industry
 
 --------------
 

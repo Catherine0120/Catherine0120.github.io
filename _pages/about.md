@@ -20,6 +20,43 @@ I value all unique experiences and strive to stay active in life and explore my 
 
 Current Status
 -----
+<u>2023-2024 Hilary Term & Easter</u>
+
+In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learning in Healthcare. Meanwhile, I'm planning my Easter vacation to travel around Europe (and Africa). Here is my schedule:
+
+> + **Luxembourg**
+> - [x] 3.9-3.10 Luxembourg
+> + **Belgium**
+> - [x] 3.10-3.12 Brussels
+> + **Netherlands**
+> - [x] 3.12-3.14 Amsterdam
+> + **Germany**
+> - [x] 3.14-3.16 Hamburg
+> - [x] 3.16-3.18 Berlin
+> + **Czech Republic**
+> - [x] 3.18-3.20 Prague
+> + **Germany (again)**
+> - [x] 3.20-3.22 Munich
+> + **Austria**
+> - [x] 3.22-3.24 Vienna
+> + **Hungary**
+> - [x] 3.24-3.26 Budapest
+> + **Greece**
+> - [x] 3.26-3.28 Athens
+> - [x] 3.28-3.31 Santorini
+> 
+> + **Morocco**
+> - [x] 4.7-4.8 Fez
+> - [x] 4.8-4.10 Ifrance + Merzouga + Ouarzazate
+> - [x] 4.10-4.13 Marrakech
+
+Total: 30 days, 9 countries, 16 cities, with 4 friends in total 
+
+
+
+Past Status
+-----
+<u>2023-2024 Michaelmas & Christmas</u>
 
 In Michaelmas term at Oxford, I took International Economics, Money and Banking and Machine Learning. Meanwhile, I'm very fortunate to be offered the summer internship at Goldman Sachs (Hong Kong), which I'll be joining in June 2024.
 
@@ -53,11 +90,9 @@ This is my first time travelling around Europe, self-planned and self-guided, fo
 
 You can find my travel diary [here](https://mp.weixin.qq.com/s?__biz=Mzk0MTYyMTczNg==&mid=2247483929&idx=1&sn=d21710137ca953c7632d12bf3760207e&chksm=c2ceea9ef5b9638861f36799013c71ee7a7cf3515b9c07eb126d96365d981b5925a5e0f885f2&token=795516037&lang=zh_CN#rd).
 
-Currently, I'm back to Oxford and am taking courses in Economics and Computer Science. I'll take Macroeconomics and Game Theory for Economics, and Deep Learning for Healthcare for Computer Science this term.
 
 
-Past Status
------
+<u>2023 Summer</u>
 
 The summer break between my sophomore and junior year. Here is my schedule:
 
