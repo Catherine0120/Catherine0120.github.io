@@ -16,6 +16,7 @@ Here, you may find out some notes I took in Markdown format during my study at T
 
 I am taking Game Theory taught by Prof [Peter Eso](https://www.economics.ox.ac.uk/people/peter-eso-0) during Hilary Term of my junior year at Oxford University.
 
+[Game Theory Note by Shiying](/files/Game_Theory.pdf)
 
 
 
