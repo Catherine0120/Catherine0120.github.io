@@ -54,7 +54,7 @@ In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learn
 > - [x] 4.8-4.10 Ifrance + Merzouga + Ouarzazate
 > - [x] 4.10-4.13 Marrakech
 
-Total: 32 days, 9 countries, 18 cities, with 4 friends in total 
+Total: 32 days, 9 countries, 18 cities, with 5 friends in total 
 
 
 
