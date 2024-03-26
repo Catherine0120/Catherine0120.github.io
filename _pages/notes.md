@@ -92,6 +92,14 @@ I took IAI taught by Prof [SHAOPING MA](https://www.cs.tsinghua.edu.cn/info/1121
 
 
 
+## Computer Network
+
+I took Computer Network during my second semester of my sophomore year. This is a detailed note for it.
+
+[Computer Network Note by Shiying](/files/Computer_Network.pdf)
+
+
+
 
 ## Object-Oriented Programming
 

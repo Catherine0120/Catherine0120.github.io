@@ -41,20 +41,6 @@ In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learn
 > - [x] 3.22-3.25 Vienna
 > + **Hungary**
 > - [x] 3.25-3.27 Budapest
-> + **Italy**
-> - [x] 3.27-3.29 Naples + Pompeii
-> - [x] 3.29-4.2 Sicily
-> - [x]     3.29-3.31 Palermo
-> - [x]     3.31-4.2 Catania
-> + **UK London**
-> - [x] Musical: Les Miserables
-> 
-> + **Morocco**
-> - [x] 4.7-4.8 Fez
-> - [x] 4.8-4.10 Ifrance + Merzouga + Ouarzazate
-> - [x] 4.10-4.13 Marrakech
-
-Total: 32 days, 9 countries, 18 cities, with 5 friends in total 
 
 
 
