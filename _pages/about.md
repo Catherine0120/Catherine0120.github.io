@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br />
-This is the homepage of Shiying Zhang（张诗颖）, a sophomore undergraduate at Tsinghua University, majoring in [Computer Science and Finance (double bachelors degree)](https://www.tsinghua.edu.cn/jxjywj/bkzy2023/sxw/1.pdf). During my junior year, I'll be attending Oxford University as an exchange student, which is fully sponsored by the prestigious [Yinghua Scholarship](https://webvpn.tsinghua.edu.cn/http/77726476706e69737468656265737421fae0429e207e6b597d469dbf915b243d8ae9128e1cdcffb247/jwcbg/detail_cat.jsp?boardid=57&seq=8720). During that time, I plan to take courses in Economics and Computer Science to gain a deeper understanding of the European paradigm of classical and modern Economics, expand my horizons, and gradually build up my knowledge of the world. (and of course to travel around European countries at the same time!)
+This is the homepage of Shiying Zhang（张诗颖）, a junior undergraduate at Tsinghua University, majoring in [Computer Science and Finance (double bachelors degree)](https://www.tsinghua.edu.cn/jxjywj/bkzy2023/sxw/1.pdf). I'm currently exchanging at University of Oxford, which is fully sponsored by the prestigious [Yinghua Scholarship](https://webvpn.tsinghua.edu.cn/http/77726476706e69737468656265737421fae0429e207e6b597d469dbf915b243d8ae9128e1cdcffb247/jwcbg/detail_cat.jsp?boardid=57&seq=8720). During this time, I took courses in Economics and Computer Science, gaining a deeper understanding of the European paradigm of classical and modern Economics, and gradually built up my knowledge of the world. (and of course travelled around many European countries!)
 
 As a dual-degree student, I have a strong interest in Computer Science, Economics and Finance. I like the interpretation and insight of the world and human behavior in Economics, the ingenuity of computer engineering and the rigor of mathematical logic, and the complex game of the financial world and constant discussion about time value of money. These give me two distinct but complementary paradigms of thinking about the world, which I believe will have a long-term impact on my life.
 
@@ -20,27 +20,12 @@ I value all unique experiences and strive to stay active in life and explore my 
 
 Current Status
 -----
-<u>2023-2024 Hilary Term & Easter</u>
+<u>2024 Trinity Term</u>
 
-In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learning in Healthcare. Meanwhile, I'm planning my Easter vacation to travel around Europe (and Africa). Here is my schedule:
+In Trinity term at Oxford, I'm taking History of World Economy. Luckily, I'm offered a MoF (Master of Finance) offer with full scholarship from Tsinghua SEM and a MFin (Master of Finance) offer from Peking GSM. I'm also preparing for the summer internship at Goldman Sachs (Hong Kong), which I'll be joining in June 2024. I also plan to travel in the UK during term.
 
-> + **Luxembourg**
-> - [x] 3.9-3.10 Luxembourg
-> + **Belgium**
-> - [x] 3.10-3.12 Brussels
-> + **Netherlands**
-> - [x] 3.12-3.14 Amsterdam
-> + **Germany**
-> - [x] 3.14-3.16 Hamburg
-> - [x] 3.16-3.18 Berlin
-> + **Czech Republic**
-> - [x] 3.18-3.20 Prague
-> + **Germany (again)**
-> - [x] 3.20-3.22 Munich
-> + **Austria**
-> - [x] 3.22-3.25 Vienna
-> + **Hungary**
-> - [x] 3.25-3.27 Budapest
+> 4.19 - 5.1 China (Shanghai, Beijing)
+> 5.11 Brighton + the Birling Gap
 
 
 
@@ -81,8 +66,42 @@ This is my first time travelling around Europe, self-planned and self-guided, fo
 You can find my travel diary [here](https://mp.weixin.qq.com/s?__biz=Mzk0MTYyMTczNg==&mid=2247483929&idx=1&sn=d21710137ca953c7632d12bf3760207e&chksm=c2ceea9ef5b9638861f36799013c71ee7a7cf3515b9c07eb126d96365d981b5925a5e0f885f2&token=795516037&lang=zh_CN#rd).
 
 
+<u>2023-2024 Hilary Term & Easter</u>
+
+In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learning in Healthcare. Meanwhile, I travelled around Europe and Africa during the vacation. Here is my schedule:
+
+> + **Luxembourg**
+> - [x] 3.9-3.10 Luxembourg
+> + **Belgium**
+> - [x] 3.10-3.12 Brussels
+> + **Netherlands**
+> - [x] 3.12-3.14 Amsterdam
+> + **Germany**
+> - [x] 3.14-3.16 Hamburg
+> - [x] 3.16-3.18 Berlin
+> + **Czech Republic**
+> - [x] 3.18-3.20 Prague
+> + **Germany (again)**
+> - [x] 3.20-3.22 Munich
+> + **Austria**
+> - [x] 3.22-3.25 Vienna
+> + **Hungary**
+> - [x] 3.25-3.27 Budapest
+> + **Italy**
+> - [x] 3.27-3.29 Naples + Pompeii
+> - [x] 3.29-4.2 Sicily (Palermo, Syracuse, Catania, Etna, Taormina)
+> + **UK London**
+> - [x] 4.2 Musical: les miserables
+>
+> + **Morocco**
+> - [x] 4.7-4.8 Fez
+> - [x] 4.8-4.10 Ifrane + Merzouga + Ourzazate
+> - [x] 4.10-4.12 Marrakech + Casablanca
+
+Total: 32 days, 9 countries, 25 cities, with 8 friends in total
 
 
+--------------------------------------------------------
 
 <u>2023 Summer</u>
 
