@@ -24,9 +24,8 @@ Current Status
 
 In Trinity term at Oxford, I'm taking History of World Economy. Luckily, I'm offered a MoF (Master of Finance) offer with full scholarship from Tsinghua SEM and a MFin (Master of Finance) offer from Peking GSM. I'm also preparing for the summer internship at Goldman Sachs (Hong Kong), which I'll be joining in June 2024. I also plan to travel in the UK during term.
 
-> 4.19 - 5.1 China (Shanghai, Beijing)
-> 5.11 Brighton + the Birling Gap
-
+> + 4.19 - 5.1 China (Shanghai, Beijing)
+> + 5.11 Brighton + the Birling Gap
 
 
 Past Status
@@ -65,6 +64,8 @@ This is my first time travelling around Europe, self-planned and self-guided, fo
 
 You can find my travel diary [here](https://mp.weixin.qq.com/s?__biz=Mzk0MTYyMTczNg==&mid=2247483929&idx=1&sn=d21710137ca953c7632d12bf3760207e&chksm=c2ceea9ef5b9638861f36799013c71ee7a7cf3515b9c07eb126d96365d981b5925a5e0f885f2&token=795516037&lang=zh_CN#rd).
 
+
+--------------------------------------------------------
 
 <u>2023-2024 Hilary Term & Easter</u>
 
