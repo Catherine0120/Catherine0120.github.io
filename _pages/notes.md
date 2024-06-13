@@ -12,6 +12,15 @@ Here, you may find out some notes I took in Markdown format during my study at T
 
 
 
+## History of World Economy (Oxford)
+
+I am taking History of World Economy taught by Prof [Terry O'Shaughnessy](https://www.st-annes.ox.ac.uk/cpt_people/oshaughnessy-dr-terry/) during Trinity Term of my junior year at Oxford University.
+
+[History of World Economy Note by Shiying](/files/History_of_World_Economy.pdf)
+
+
+
+
 ## Game Theory (Oxford)
 
 I am taking Game Theory taught by Prof [Peter Eso](https://www.economics.ox.ac.uk/people/peter-eso-0) during Hilary Term of my junior year at Oxford University.
@@ -22,7 +31,7 @@ I am taking Game Theory taught by Prof [Peter Eso](https://www.economics.ox.ac.u
 
 ## Macroeconomics (Oxford)
 
-I am taking Macroeconomics taught by Prof [Christopher Bowdler](https://www.economics.ox.ac.uk/people/christopher-bowdler-0) during Michaelmas Term of my junior year at Oxford University.
+I took Macroeconomics taught by Prof [Christopher Bowdler](https://www.economics.ox.ac.uk/people/christopher-bowdler-0) during Hilary Term of my junior year at Oxford University.
 
 [Macroeconomics Note by Shiying](/files/Macroeconomics.pdf)
 
