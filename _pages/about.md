@@ -20,7 +20,7 @@ I value all unique experiences and strive to stay active in life and explore my 
 
 Current Status
 -----
-<u>2024 Summer</u>
+**<u>2024 Summer</u>**
 
 Interning at Goldman Sachs (Hong Kong) in the Global Investment Research (GIR) division.
 
@@ -29,7 +29,7 @@ Interning at Goldman Sachs (Hong Kong) in the Global Investment Research (GIR) d
 
 Past Status
 -----
-<u>2023 Summer</u>
+**<u>2023 Summer</u>**
 
 The summer break between my sophomore and junior year. Here is my schedule:
 
@@ -43,7 +43,7 @@ Furthermore, this summer inits a new chapter of my college life -- with key idea
 
 --------------------------------------------------------
 
-<u>2023-2024 Michaelmas & Christmas</u>
+**<u>2023-2024 Michaelmas & Christmas</u>**
 
 In Michaelmas term at Oxford, I took International Economics, Money and Banking and Machine Learning. Meanwhile, I'm very fortunate to be offered the summer internship at Goldman Sachs (Hong Kong), which I'll be joining in June 2024.
 
@@ -59,7 +59,7 @@ You can find my travel diary [here](https://mp.weixin.qq.com/s?__biz=Mzk0MTYyMTc
 
 --------------------------------------------------------
 
-<u>2023-2024 Hilary Term & Easter</u>
+**<u>2023-2024 Hilary Term & Easter</u>**
 
 In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learning in Healthcare. Meanwhile, I travelled around Europe and Africa during the vacation. Here was my schedule:
 
@@ -68,7 +68,7 @@ In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learn
 
 --------------------------------------------------------
 
-<u>2024 Trinity Term</u>
+**<u>2024 Trinity Term</u>**
 
 In Trinity term at Oxford, I took History of World Economy. Luckily, I was offered a MoF (Master of Finance) offer with full scholarship from Tsinghua SEM and a MFin (Master of Finance) offer from Peking GSM. I was also preparing for the summer internship at Goldman Sachs (Hong Kong), which I would be joining in June 2024.
 
