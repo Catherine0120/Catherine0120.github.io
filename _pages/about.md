@@ -33,33 +33,12 @@ Past Status
 
 In Michaelmas term at Oxford, I took International Economics, Money and Banking and Machine Learning. Meanwhile, I'm very fortunate to be offered the summer internship at Goldman Sachs (Hong Kong), which I'll be joining in June 2024.
 
-I travelled around Europe during the Christmas vacation between Michaelmas and Hilary term. Here is my schedule:
+I travelled around Europe during the Christmas vacation between Michaelmas and Hilary term. Here was my schedule:
 
-> + 12.3-12.9 Scotland (Glasgow, Oban, Skye/Inverness, Edinburgh)
-> + **France + Monaco**
-> - [x] 12.9-12.11 Lyon
-> - [x] 12.11-12.14 Nice + Cannes + Monaco
-> + **Spain**
-> - [x] 12.14-12.17 Barcelona
-> - [x] 12.17-12.19 Madrid
-> + **Portugal**
-> - [x] 12.19-12.21 Lisbon
-> + **Italy + Vatican**
-> - [x] 12.21-12.24 Rome + Vatican
-> - [x] 12.24-12.26 Florence
-> - [x] 12.26-12.27 Milan
-> + **Switzerland**
-> - [x] 12.27-12.29 Geneva
-> - [x] 12.29 Bern
-> - [x] 12.29-12.31 Interlaken (Jungfrau)
-> - [x] 12.31 Lucerne
-> - [x] 12.31-1.2 Zurich
-> + **France (again)**
-> - [x] 1.2-1.5 Paris + Versailles
+<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240809105301200.png" style="zoom:60%;" />
 
-Total: 34 days, 8 countries, 22 cities, with 8 friends in total 
 
-This is my first time travelling around Europe, self-planned and self-guided, for such a long time. I literally went to every corner of western Europe, from the northernmost point of Scotland to the southernmost point of Spain, from the westernmost point of Portugal to the easternmost point of Switzerland. Many sites and cities have left a deep impression on me, where I spent time exploring, city-walking, interacting with local people, and learning about the local culture. 
+This was my first time travelling around Europe, self-planned and self-guided, for such a long time. I literally went to every corner of western Europe, from the northernmost point of Scotland to the southernmost point of Spain, from the westernmost point of Portugal to the easternmost point of Switzerland. Many sites and cities have left a deep impression on me, where I spent time exploring, city-walking, interacting with local people, and learning about the local culture. 
 
 You can find my travel diary [here](https://mp.weixin.qq.com/s?__biz=Mzk0MTYyMTczNg==&mid=2247483929&idx=1&sn=d21710137ca953c7632d12bf3760207e&chksm=c2ceea9ef5b9638861f36799013c71ee7a7cf3515b9c07eb126d96365d981b5925a5e0f885f2&token=795516037&lang=zh_CN#rd).
 
@@ -68,37 +47,9 @@ You can find my travel diary [here](https://mp.weixin.qq.com/s?__biz=Mzk0MTYyMTc
 
 <u>2023-2024 Hilary Term & Easter</u>
 
-In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learning in Healthcare. Meanwhile, I travelled around Europe and Africa during the vacation. Here is my schedule:
+In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learning in Healthcare. Meanwhile, I travelled around Europe and Africa during the vacation. Here was my schedule:
 
-> + **Luxembourg**
-> - [x] 3.9-3.10 Luxembourg
-> + **Belgium**
-> - [x] 3.10-3.12 Brussels
-> + **Netherlands**
-> - [x] 3.12-3.14 Amsterdam
-> + **Germany**
-> - [x] 3.14-3.16 Hamburg
-> - [x] 3.16-3.18 Berlin
-> + **Czech Republic**
-> - [x] 3.18-3.20 Prague
-> + **Germany (again)**
-> - [x] 3.20-3.22 Munich
-> + **Austria**
-> - [x] 3.22-3.25 Vienna
-> + **Hungary**
-> - [x] 3.25-3.27 Budapest
-> + **Italy**
-> - [x] 3.27-3.29 Naples + Pompeii
-> - [x] 3.29-4.2 Sicily (Palermo, Syracuse, Catania, Etna, Taormina)
-> + **UK London**
-> - [x] 4.2 Musical: les miserables
->
-> + **Morocco**
-> - [x] 4.7-4.8 Fez
-> - [x] 4.8-4.10 Ifrane + Merzouga + Ourzazate
-> - [x] 4.10-4.12 Marrakech + Casablanca
-
-Total: 32 days, 9 countries, 25 cities, with 8 friends in total
+<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240809105658212.png" style="zoom:60%;" />
 
 
 --------------------------------------------------------
@@ -118,16 +69,8 @@ In Trinity term at Oxford, I took History of World Economy. Luckily, I was offer
 
 The summer break between my sophomore and junior year. Here is my schedule:
 
-> **2023 Summer Timetable**
-> - [x] 6.22(Thu) - 6.25(Sun)：【北京 => **上海**】上海招生
-> - [x] 6.26(Mon) - 7.8(Sat)：【上海 => **北京**】1字班军训
-> - [x] 7.12(Tue) - 8.3(Thu)：【北京 => **上海**】信弘天禾QR实习
-> - [x] 8.5(Sat) - 8.17(Thu)：【上海 => 北京 => **西雅图**】计算机系实践
-> - [x] 8.22(Tue) - 8.25(Fri)：【西雅图 => 北京 => **秦皇岛**】阿那亚度假
-> - [x] 8.28(Mon) - 9.22(Fri)：【秦皇岛 => **北京**】淡水泉投研实习
-> - [x] 9.24(Mon) - 9.28(Sat): 【北京 => **上海**】回SHS + stay with yy
-> - [x] 9.26(Tue)：【上海 => **北京** => 上海】面试（当日往返）
-> - [x] 10.1(Sun)：【上海 => 伦敦 => **牛津**】交换 at Oxford
+<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240809110126350.png" style="zoom:60%;" />
+
 
 I thought this schedule is really fantastic for me. For one thing, I'm always interested in Quant-related job and am excited to have the opportunity to intern at XHTH, a 10 billion RMB AUM quant hedge fund. For another, I'm also curious about the comparison between traditional hedge fund and quant hedge fund, and I'm eager to learn more about the industry. Spring Capital, the top industry player, would offer me this opportunity. 
 
