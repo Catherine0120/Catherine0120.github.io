@@ -9,23 +9,22 @@ redirect_from:
 ---
 
 <br />
-This is the homepage of Shiying Zhang（张诗颖）, a junior undergraduate at Tsinghua University, majoring in [Computer Science and Finance (double bachelors degree)](https://www.tsinghua.edu.cn/jxjywj/bkzy2023/sxw/1.pdf). I'm currently exchanging at University of Oxford, which is fully sponsored by the prestigious [Yinghua Scholarship](https://webvpn.tsinghua.edu.cn/http/77726476706e69737468656265737421fae0429e207e6b597d469dbf915b243d8ae9128e1cdcffb247/jwcbg/detail_cat.jsp?boardid=57&seq=8720). During this time, I took courses in Economics and Computer Science, gaining a deeper understanding of the European paradigm of classical and modern Economics, and gradually built up my knowledge of the world. (and of course travelled around many European countries!)
+This is the homepage of Shiying Zhang（张诗颖）, a junior undergraduate at Tsinghua University, majoring in [Computer Science and Technology + Economics and Finance (double bachelors degree)](https://www.tsinghua.edu.cn/jxjywj/bkzy2023/sxw/1.pdf). During my junior year, I exchanged at University of Oxford, which was fully sponsored by the prestigious [Yinghua Scholarship](https://webvpn.tsinghua.edu.cn/http/77726476706e69737468656265737421fae0429e207e6b597d469dbf915b243d8ae9128e1cdcffb247/jwcbg/detail_cat.jsp?boardid=57&seq=8720). During this time, I took courses in Economics and Computer Science, gaining a deeper understanding of the European paradigm of classical and modern Economics, travelled in 51 cities / 16 countries for 76 days, and gradually built up my knowledge of the world.
 
-As a dual-degree student, I have a strong interest in Computer Science, Economics and Finance. I like the interpretation and insight of the world and human behavior in Economics, the ingenuity of computer engineering and the rigor of mathematical logic, and the complex game of the financial world and constant discussion about time value of money. These give me two distinct but complementary paradigms of thinking about the world, which I believe will have a long-term impact on my life.
+As a dual-degree student, I have a strong interest in Computer Science, Economics and Finance. I like the interpretation and insight of the world and human behavior in Economics, the ingenuity of computer engineering and rigor of mathematical logic, and the complex game of the financial world and constant debate on the ever-changing market. These give me two distinct but complementary paradigms of thinking about the world, which I believe will have a long-term impact on my life.
 
-At the same time, I am also an energetic person who lust for life and am eager for novel experiences. Till my sophomore year, I have participated in multiple internships, two research periods, multiple competitions, and won the Tsinghua Overall-Merit Scholarship for academic in year 2021-2022. On campus, I served as department leader of SEM SU, member of CST SAST, class monitor, and leader of CST Debate Team. I have also participated in Cricket Match, Cheerleading Contest and various debate competitions. In my freshman year, I was honored to be awarded the best debater of the year. Outside of school, I am active in various club organizations and travel around the world to interact with people from inside and outside the industry.
+At the same time, I am also an energetic person who lust for life and am eager for novel experiences. Till my junior year, I have participated in multiple internships (including the most recent one at Goldman Sachs), two research periods, multiple competitions, and won several scholarships. On campus, I served as department leader of SEM SU, member of CST SAST, class monitor, and leader of CST Debate Team. I have also participated in Cricket Match, Cheerleading Contest and various debate competitions. In my freshman year, I was honored to be awarded the best debater of the year. Outside of school, I am active in various club organizations and travel around the world to interact with people from inside and outside the industry. I'm a poker player and have been to the final table of the UK competition.
 
 I value all unique experiences and strive to stay active in life and explore my own unique path.
 
 
 Current Status
 -----
-<u>2024 Trinity Term</u>
+<u>2024 Summer</u>
 
-In Trinity term at Oxford, I'm taking History of World Economy. Luckily, I'm offered a MoF (Master of Finance) offer with full scholarship from Tsinghua SEM and a MFin (Master of Finance) offer from Peking GSM. I'm also preparing for the summer internship at Goldman Sachs (Hong Kong), which I'll be joining in June 2024. I also plan to travel in the UK during term.
+Interning at Goldman Sachs (Hong Kong) in the Global Investment Research (GIR) division.
 
-> + 4.19 - 5.1 China (Shanghai, Beijing)
-> + 5.11 Brighton + the Birling Gap
+
 
 
 Past Status
@@ -100,6 +99,17 @@ In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learn
 > - [x] 4.10-4.12 Marrakech + Casablanca
 
 Total: 32 days, 9 countries, 25 cities, with 8 friends in total
+
+
+--------------------------------------------------------
+
+<u>2024 Trinity Term</u>
+
+In Trinity term at Oxford, I took History of World Economy. Luckily, I was offered a MoF (Master of Finance) offer with full scholarship from Tsinghua SEM and a MFin (Master of Finance) offer from Peking GSM. I was also preparing for the summer internship at Goldman Sachs (Hong Kong), which I would be joining in June 2024.
+
+> + 4.19 - 5.1 China (Shanghai, Beijing)
+> + 5.11 Brighton + the Birling Gap
+> + 6.10 - 8.9 Hong Kong
 
 
 --------------------------------------------------------
