@@ -22,6 +22,8 @@ Current Status
 -----
 **<u>2024 Summer</u>**
 
+*Location: Hong Kong*
+
 Interning at Goldman Sachs (Hong Kong) in the Global Investment Research (GIR) division.
 
 
@@ -31,6 +33,8 @@ Past Status
 -----
 **<u>2023 Summer</u>**
 
+*Location: Shanghai, Beijing, Seattle*
+
 The summer break between my sophomore and junior year. Here is my schedule:
 
 <img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240809110126350.png" style="zoom:60%;" />
@@ -38,14 +42,16 @@ The summer break between my sophomore and junior year. Here is my schedule:
 
 I thought this schedule is really fantastic for me. For one thing, I'm always interested in Quant-related job and am excited to have the opportunity to intern at XHTH, a 10 billion RMB AUM quant hedge fund. For another, I'm also curious about the comparison between traditional hedge fund and quant hedge fund, and I'm eager to learn more about the industry. Spring Capital, the top industry player, would offer me this opportunity. 
 
-Furthermore, this summer inits a new chapter of my college life -- with key idea: the **exploration of the world**. I'll be going to Seattle, the city of Microsoft, Amazon and Starbucks, to explore the American culture and investigate into these IT giants. I'll also be going to Oxford, the city of the oldest university in the English-speaking world, to explore the European culture and academically, how they teach Economics. As well, Beijing and Shanghai are two cities I'm always familiar with. It's time to cherish the time with my friends and family here before saying a brief goodbye to them.
+Furthermore, this summer inited a new chapter of my college life -- with key idea: the **exploration of the world**. I went to Seattle, the city of Microsoft, Amazon and Starbucks, to explore the American culture and investigate into these IT giants. I would also be going to Oxford, the city of the oldest university in the English-speaking world, to explore the European culture and academically, how they teach Economics. As well, Beijing and Shanghai are two cities I'm always familiar with. It's time to cherish the time with my friends and family here before saying a brief goodbye to them.
 
 
 --------------------------------------------------------
 
 **<u>2023-2024 Michaelmas & Christmas</u>**
 
-In Michaelmas term at Oxford, I took International Economics, Money and Banking and Machine Learning. Meanwhile, I'm very fortunate to be offered the summer internship at Goldman Sachs (Hong Kong), which I'll be joining in June 2024.
+*Location: Oxford, Europe*
+
+In Michaelmas term at Oxford, I took International Economics, Money and Banking and Machine Learning. Meanwhile, I'm very fortunate to be offered the summer internship at Goldman Sachs (Hong Kong), which I'll be joining in June 2024, after taking approximately 30 interviews with various financial companies.
 
 I travelled around Europe during the Christmas vacation between Michaelmas and Hilary term. Here was my schedule:
 
@@ -61,6 +67,8 @@ You can find my travel diary [here](https://mp.weixin.qq.com/s?__biz=Mzk0MTYyMTc
 
 **<u>2023-2024 Hilary Term & Easter</u>**
 
+*Location: Oxford, Europe, Africa*
+
 In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learning in Healthcare. Meanwhile, I travelled around Europe and Africa during the vacation. Here was my schedule:
 
 <img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240809105658212.png" style="zoom:60%;" />
@@ -69,6 +77,8 @@ In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learn
 --------------------------------------------------------
 
 **<u>2024 Trinity Term</u>**
+
+*Location: Oxford*
 
 In Trinity term at Oxford, I took History of World Economy. Luckily, I was offered a MoF (Master of Finance) offer with full scholarship from Tsinghua SEM and a MFin (Master of Finance) offer from Peking GSM. I was also preparing for the summer internship at Goldman Sachs (Hong Kong), which I would be joining in June 2024.
 
