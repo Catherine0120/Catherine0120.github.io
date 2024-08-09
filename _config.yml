@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shiying Zhang's Homepage"
+title                    : "Catherine's Homepage"
 title_separator          : "-"
 name                     : &name "Catherine"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shiying Zhang 张诗颖"
   avatar           : "profile.jpg"
-  bio              : "Tsinghua University, double Bachelors degree in Computer Science and Finance"
+  bio              : "Tsinghua University 25', double Bachelors degree in Computer Science and Finance; University of Oxford 24', visiting student"
   location         : "Beijing/Shanghai/HK; Oxford"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
