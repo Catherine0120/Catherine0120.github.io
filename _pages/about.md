@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<font>\"Embarking on a Full-Spectrum Exploration in Computer Science, Finance and Life.\"<font> "
+title: "<font>\"Embarking on a Full-Spectrum Exploration in Academia, Career and Life.\"<font> "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -29,6 +29,20 @@ Interning at Goldman Sachs (Hong Kong) in the Global Investment Research (GIR) d
 
 Past Status
 -----
+<u>2023 Summer</u>
+
+The summer break between my sophomore and junior year. Here is my schedule:
+
+<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240809110126350.png" style="zoom:60%;" />
+
+
+I thought this schedule is really fantastic for me. For one thing, I'm always interested in Quant-related job and am excited to have the opportunity to intern at XHTH, a 10 billion RMB AUM quant hedge fund. For another, I'm also curious about the comparison between traditional hedge fund and quant hedge fund, and I'm eager to learn more about the industry. Spring Capital, the top industry player, would offer me this opportunity. 
+
+Furthermore, this summer inits a new chapter of my college life -- with key idea: the **exploration of the world**. I'll be going to Seattle, the city of Microsoft, Amazon and Starbucks, to explore the American culture and investigate into these IT giants. I'll also be going to Oxford, the city of the oldest university in the English-speaking world, to explore the European culture and academically, how they teach Economics. As well, Beijing and Shanghai are two cities I'm always familiar with. It's time to cherish the time with my friends and family here before saying a brief goodbye to them.
+
+
+--------------------------------------------------------
+
 <u>2023-2024 Michaelmas & Christmas</u>
 
 In Michaelmas term at Oxford, I took International Economics, Money and Banking and Machine Learning. Meanwhile, I'm very fortunate to be offered the summer internship at Goldman Sachs (Hong Kong), which I'll be joining in June 2024.
@@ -58,23 +72,10 @@ In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learn
 
 In Trinity term at Oxford, I took History of World Economy. Luckily, I was offered a MoF (Master of Finance) offer with full scholarship from Tsinghua SEM and a MFin (Master of Finance) offer from Peking GSM. I was also preparing for the summer internship at Goldman Sachs (Hong Kong), which I would be joining in June 2024.
 
-> + 4.19 - 5.1 China (Shanghai, Beijing)
-> + 5.11 Brighton + the Birling Gap
-> + 6.10 - 8.9 Hong Kong
+<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240809111441893.png" style="zoom:60%;" />
 
 
---------------------------------------------------------
 
-<u>2023 Summer</u>
-
-The summer break between my sophomore and junior year. Here is my schedule:
-
-<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240809110126350.png" style="zoom:60%;" />
-
-
-I thought this schedule is really fantastic for me. For one thing, I'm always interested in Quant-related job and am excited to have the opportunity to intern at XHTH, a 10 billion RMB AUM quant hedge fund. For another, I'm also curious about the comparison between traditional hedge fund and quant hedge fund, and I'm eager to learn more about the industry. Spring Capital, the top industry player, would offer me this opportunity. 
-
-Furthermore, this summer inits a new chapter of my college life -- with key idea: the **exploration of the world**. I'll be going to Seattle, the city of Microsoft, Amazon and Starbucks, to explore the American culture and investigate into these IT giants. I'll also be going to Oxford, the city of the oldest university in the English-speaking world, to explore the European culture and academically, how they teach Economics. As well, Beijing and Shanghai are two cities I'm always familiar with. It's time to cherish the time with my friends and family here before saying a brief goodbye to them.
 
 More Info
 ------

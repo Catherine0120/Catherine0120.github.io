@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 <!-- ![202107111623](https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/幻灯片1.PNG) -->
-<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240229120116928.png" style="zoom:60%;" />
+<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240229120116928.png" style="zoom:70%;" />
 
 <!-- ![2023071102](https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/幻灯片2.PNG) -->
-<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240229120200161.png" style="zoom:60%;" />
+<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240229120200161.png" style="zoom:70%;" />
 
 
 You can also download my CV here:
