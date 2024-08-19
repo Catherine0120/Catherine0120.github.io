@@ -8,17 +8,17 @@ redirect_from:
 ---
 
 <!-- ![202107111623](https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/幻灯片1.PNG) -->
-<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240229120116928.png" style="zoom:70%;" />
+<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240819105246072.png" style="zoom:70%;" />
 
 <!-- ![2023071102](https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/幻灯片2.PNG) -->
-<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240229120200161.png" style="zoom:70%;" />
+<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240819105324440.png" style="zoom:70%;" />
 
 
-You can also download my CV here:
+<!-- You can also download my CV here:
 
 [Quant_CV_zhangshiying](https://Catherine0120.github.io/assets/CV_quant.pdf): I use this CV to apply for quant-related job positions 
 
-[Finance_CV_zhangshiying](https://Catherine0120.github.io/assets/CV_fin.pdf): I use this CV to apply for other job positions in Finance industry
+[Finance_CV_zhangshiying](https://Catherine0120.github.io/assets/CV_fin.pdf): I use this CV to apply for other job positions in Finance industry -->
 
 --------------
 
