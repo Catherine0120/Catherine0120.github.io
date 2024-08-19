@@ -71,7 +71,7 @@ You can find my travel diary [here](https://mp.weixin.qq.com/s/DxDKDCmPfA_VnEVI6
 
 In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learning in Healthcare. Meanwhile, I travelled around Europe and Africa during the vacation. Here was my schedule:
 
-<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240819104132623.png" style="zoom:60%;" />
+<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240819104132623.png" style="zoom:50%;" />
 
 
 --------------------------------------------------------
