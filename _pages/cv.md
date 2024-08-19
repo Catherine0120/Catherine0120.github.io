@@ -22,6 +22,8 @@ redirect_from:
 
 --------------
 
-Transcript (by the end of the second semester of my sophomore year):
+Transcripts:
 
 <iframe src="/files/transcript.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+<iframe src="/files/oxford_transcript.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
