@@ -99,4 +99,4 @@ Email: catherinezhang0120@gmail.com | shiying-21@mails.tsinghua.edu.cn
 
 Wechat: Catherine_zsy0120
 
-LinkedIn: [Shiying (Catherine) Zhang](www.linkedin.com/in/shiying-zhang-936499272)
+LinkedIn: [Shiying (Catherine) Zhang](https://www.linkedin.com/in/shiying-zhang-936499272)
