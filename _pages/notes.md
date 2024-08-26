@@ -60,7 +60,7 @@ I took Money and Banking taught by Prof [Christopher Bowdler](https://www.econom
 
 I took Machine Learning taught by Prof [ATILIM GÜNEŞ BAYDİN](http://gbaydin.github.io/) during Michaelmas Term of my junior year at Oxford University.
 
-[Machine Learning Note (TBC) by Shiying](/files/Machine_Learning.pdf)
+[Machine Learning Note by Shiying](/files/Machine_Learning.pdf)
 
 
 

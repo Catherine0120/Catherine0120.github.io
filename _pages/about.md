@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 <br />
-This is the homepage of Shiying (Catherine) Zhang（张诗颖）, a junior undergraduate at Tsinghua University, majoring in [Computer Science and Technology + Economics and Finance (double bachelors degree)](https://www.tsinghua.edu.cn/jxjywj/bkzy2023/sxw/1.pdf). During my junior year, I exchanged at University of Oxford, which was fully sponsored by the prestigious [Yinghua Scholarship](https://goglobal.tsinghua.edu.cn/yinghuascholars). During this time, I took courses in Economics and Computer Science, gaining a deeper understanding of the European paradigm of classical and modern Economics, travelled in 51 cities / 16 countries for 76 days, and gradually built up my knowledge of the world.
+This is the homepage of Shiying (Catherine) Zhang（张诗颖）, a final-year undergraduate at Tsinghua University, majoring in [Computer Science and Technology + Economics and Finance (double bachelors degree)](https://www.tsinghua.edu.cn/jxjywj/bkzy2023/sxw/1.pdf). During my junior year, I exchanged at University of Oxford, which was fully sponsored by the prestigious [Yinghua Scholarship](https://goglobal.tsinghua.edu.cn/yinghuascholars). During this time, I took courses in Economics and Computer Science, gaining a deeper understanding of the European paradigm of classical and modern Economics, travelled in 51 cities / 16 countries for 76 days, and gradually built up my knowledge of the world.
 
-As a dual-degree student, I have a strong interest in Computer Science, Economics and Finance. I like the interpretation and insight of the world and human behavior in Economics, the ingenuity of computer engineering and rigor of mathematical logic, and the complex game of the financial world and constant debate on the ever-changing market. These give me two distinct but complementary paradigms of thinking about the world, which I believe will have a long-term impact on my life.
+As a dual-degree student, I have a strong interest in Computer Science, Economics and Finance. I like the interpretation and insight of the world and human behavior in Economics, the ingenuity of computer engineering and rigor of mathematical logic, and the complex game of the financial world and constant debate on the ever-changing market. These give me two distinct but complementary paradigms of thinking about the world, which I believe will have a long-term impact on my life. As for career planning, I'm determined to pursue a career in the economics and finance industry. I'm interested in looking for the cause-and-effect of market news, dynamics of the industry and macro trend. In particular, I'm interested in macro, equity and foreign exchange markets.
 
-At the same time, I am also an energetic person who lust for life and am eager for novel experiences. Till my junior year, I have participated in multiple internships (including the most recent one at Goldman Sachs), two research periods, multiple competitions, and won several scholarships. On campus, I served as department leader of SEM SU, member of CST SAST, class monitor, and leader of CST Debate Team. I have also participated in Cricket Match, Cheerleading Contest and various debate competitions. In my freshman year, I was honored to be awarded the best debater of the year. Outside of school, I am active in various club organizations and travel around the world to interact with people from inside and outside the industry. I'm a poker player and have been to the final table of the UK competition.
+At the same time, I am also an energetic person who lust for life and am eager for novel experiences. Till my junior year, I have exchanged at Oxford for one year, participated in multiple internships (including the most recent one at Goldman Sachs), two research periods, multiple competitions, and won several scholarships. On campus, I served as department leader of SEM SU, member of CST SAST, class monitor, and leader of CST Debate Team. I have also participated in Cricket Match, Cheerleading Contest and various debate competitions. In my freshman year, I was honored to be awarded the best debater of the year. Outside of school, I am active in various club organizations and travel around the world to interact with people from inside and outside the industry. I'm a poker player and have been to the final table of the UK competition. **City exploration** has been an essential theme of my life. I was born in Shenzhen, and have lived in Shanghai, Beijing, Oxford, Hong Kong for study and internship. I'm seeking opportunities to explore more cities and cultures in the future.
 
 I value all unique experiences and strive to stay active in life and explore my own unique path.
 
@@ -22,9 +22,11 @@ Current Status
 -----
 **<u>2024 Summer</u>**
 
-*Location: Hong Kong*
+*Location: Hong Kong, Shanghai*
 
-Interning at Goldman Sachs (Hong Kong) in the Global Investment Research (GIR) division.
+I interned at Goldman Sachs (Hong Kong) at Global Investment Research (GIR) division in June, July and early August, responsible of carrying out equity research on the consumer sector. During my internship, I had time travelling and exploring the beauty of Hong Kong.
+
+I spent my time working out at gym, swimming, hanging out with family and dining with friends in Shanghai.
 
 
 
@@ -71,10 +73,10 @@ You can find my travel diary [here](https://mp.weixin.qq.com/s/DxDKDCmPfA_VnEVI6
 
 In Hilary term at Oxford, I took core Macroeconomics, Game Theory and Deep Learning in Healthcare. Meanwhile, I travelled around Europe and Africa during the vacation. Here was my schedule:
 
-<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240819104132623.png" style="zoom:55%;" />
+<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image/image-20240819104132623.png" style="zoom:58%;" />
 
 
---------------------------------------------------------
+------------------------------------------------------
 
 **<u>2024 Trinity Term</u>**
 
