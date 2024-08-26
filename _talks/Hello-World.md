@@ -3,7 +3,7 @@ title: "Hello World!"
 collection: talks
 type: "Diary"
 permalink: /talks/Hello-World
-venue: "late at my home in Shanghai, alone"
+venue: "late at my home in Shanghai"
 date: 2023-07-23
 location: "Shanghai, China"
 ---
