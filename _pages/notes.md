@@ -71,12 +71,10 @@ I took Data Structure and Algorithm taught by Prof [JUNHUI DENG](https://www.cs.
 
 + [Data Structure and Algorithm Course Note by Shiying](/files/DSA.html): This nearly 100-page, 45,000-word note comprehensively covers all course materials and provides detailed explanations of key details and insightful reflections. The included images in the notes are sourced from the teacher's lecture slides.
 
-<!-- <iframe src="/files/DSA.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
 
 + [Summary of Algorithms](/files/Algorithms.html): This note summarizes the fundamental concepts and pseudocode of all the classic algorithms covered in the course.
 
-<!-- <iframe src="/files/Algorithms.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
 
 
@@ -87,7 +85,6 @@ I took Computer System taught by Prof [YOUHUI ZHANG](https://www.cs.tsinghua.edu
 
 [Computer System Course Note by Shiying](/files/ICS.html)
 
-<!-- <iframe src="/files/ICS.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
 
 
@@ -97,7 +94,6 @@ I took IAI taught by Prof [SHAOPING MA](https://www.cs.tsinghua.edu.cn/info/1121
 
 [IAI Note by Shiying](/files/AI.html)
 
-<!-- <iframe src="/files/AI.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
 
 
@@ -116,8 +112,6 @@ I took OOP taught by Prof [MINLIE HUANG](https://www.cs.tsinghua.edu.cn/info/112
 
 [OOP Course Note by Shiying](/files/OOP.html)
 
-<!-- <iframe src="/files/OOP.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
-
 
 
 
@@ -127,13 +121,7 @@ I took Econometrics(1) (Grade: A) taught by Prof [LIANGJUN SU](https://www.sem.t
 
 + [Econometrics(1) Cheatsheet by Shiying](/files/Econometrics_1.pdf)
 
-<!-- <iframe src="/files/Econometrics_1.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
-
-
 + [Econometrics(2) Cheatsheet by Shiying](/files/Econometrics_2.pdf)
-
-<!-- <iframe src="/files/Econometrics_2.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
-
 
 
 
@@ -143,7 +131,16 @@ I took Investment (Grade: A) taught by Prof [YINGZI ZHU](https://www.sem.tsinghu
 
 [Investment Summary Note by Shiying](/files/Investment.html)
 
-<!-- <iframe src="/files/Investment.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
+
+
+## Intermediate Macroeconomics
+
+I took Intermediate Macroeconomics (Grade: A) taught by Prof [TUO CHEN](https://www.sem.tsinghua.edu.cn/info/1206/33181.htm). Students are permitted to use a cheatsheet during exams for the course. Therefore, I have prepared my cheatsheet below, which I believe encompasses the comprehensive structure and essential details of the course content.
+
++ [Intermediate Macroeconomics Cheatsheet by Shiying](/files/Macro.pdf)
+
+
+
 
 
 
