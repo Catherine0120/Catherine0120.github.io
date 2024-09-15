@@ -90,6 +90,23 @@ During Trinity Term and all terms at Oxford, I was also actively attending forma
 
 
 
+------------------------------------------------------
+
+**<u>Conclusion for my 2023-2024 Life at Oxford</u>**
+
+1. Expenditure details for the whole year exchange: [Xiao Hong Shu](http://xhslink.com/A/jVKlgw)
+
+2. Travel diary + Formal summary (68 posts, a total of 100k words): WeChat Official Account (魔鬼的玫瑰城堡)
+
+3. Travel Itinerary：[Scotland](https://www.notion.so/catherinezsy/7bdf3eca93b94f58b1b043dc7ae6eed4?v=8c3078f45cce41c28acddcf29046f76f)，[Europe1](https://www.notion.so/catherinezsy/Europe-8e715bd2921646fa8cce81e47bdf89a0)，[Morocco](https://www.notion.so/catherinezsy/Morocco-b51e767211f14c29a4a34f619097c751)，[Europe2](https://www.notion.so/catherinezsy/Europe-a1a2aa93ca8c41e3b629409cc8ecb163)
+
+4. Travel Itinerary Summary：[see above](https://catherine0120.github.io)
+
+5. Oxford academia notes (318 pages in total)：[see 'notes'](https://catherine0120.github.io/notes/)
+
+
+
+
 More Info
 ------
 My hobbies include Poker, Debating, Hockey and Travelling.
