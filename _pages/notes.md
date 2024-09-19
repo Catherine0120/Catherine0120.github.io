@@ -137,7 +137,7 @@ I took Investment (Grade: A) taught by Prof [YINGZI ZHU](https://www.sem.tsinghu
 
 I took Intermediate Macroeconomics (Grade: A) taught by Prof [TUO CHEN](https://www.sem.tsinghua.edu.cn/info/1206/33181.htm). Students are permitted to use a cheatsheet during exams for the course. Therefore, I have prepared my cheatsheet below, which I believe encompasses the comprehensive structure and essential details of the course content.
 
-+ [Intermediate Macroeconomics Cheatsheet by Shiying](/files/Macro.pdf)
+[Intermediate Macroeconomics Cheatsheet by Shiying](/files/Macro.pdf)
 
 
 
