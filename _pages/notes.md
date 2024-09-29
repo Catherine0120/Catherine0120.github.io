@@ -142,6 +142,12 @@ I took Intermediate Macroeconomics (Grade: A) taught by Prof [TUO CHEN](https://
 
 
 
+## Digital Logic Circuit
 
+I took Digital Logic Circuit and its Experiment courses during my sophomore year. This note is a summary of the key ideas of the course and it really helped a lot during my review for the final exam.
+
++ [Digital Logic Circuit Note by Shiying](/files/Digital_Logic_Circuit.pdf)
+
++ [Digital Logic Circuit Experiment Note by Shiying](/files/Digital_Logic_Circuit_Experiment.pdf)
 
 
