@@ -20,13 +20,13 @@ I value all unique experiences and strive to stay active in life and explore my 
 
 Current Status
 -----
-**<u>2024 Summer</u>**
+**<u>2024-2025 Final year at THU</u>**
 
-*Location: Hong Kong, Shanghai*
+*Location: Beijing, Hokkaido*
 
-I interned at Goldman Sachs (Hong Kong) at Global Investment Research (GIR) division in June, July and early August, responsible of carrying out equity research on the consumer sector. During my internship, I had time travelling and exploring the beauty of Hong Kong.
+I've got several compulsory courses to take in my final year at Tsinghua University, including Computer Organization, Software Engineering, Machine Learning in Finance and Financial Risk Management. 
 
-I spent my time working out at gym, swimming, hanging out with family and dining with friends in Shanghai.
+As the last year of my undergraduate study, I decide to keep a balance between work and life. I go to gym often, have travelled in Hokkaido during the National Day holiday (10.4-10.8, went to Asahikawa, Mt. Kurogatake, Otaru and Sapporo with my friend), and am preparing for applications for graduate programs.
 
 
 
@@ -104,6 +104,16 @@ During Trinity Term and all terms at Oxford, I was also actively attending forma
 
 + Oxford academia notes (318 pages in total)：[see 'notes'](https://catherine0120.github.io/notes/)
 
+
+
+------------------------------------------------------
+**<u>2024 Summer</u>**
+
+*Location: Hong Kong, Shanghai*
+
+I interned at Goldman Sachs (Hong Kong) at Global Investment Research (GIR) division in June, July and early August, responsible of carrying out equity research on the consumer sector. During my internship, I had time travelling and exploring the beauty of Hong Kong.
+
+I spent my time working out at gym, swimming, hanging out with family and dining with friends in Shanghai.
 
 
 
