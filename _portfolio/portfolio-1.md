@@ -1,6 +1,6 @@
 ---
 title: "National Scholarship 2023-2024"
-excerpt: "An introduction to me myself by the end of my junior year.<br/> <img src='/images/portfolio_4/Slide1.jpg' style='zoom:40%;'/>"
+excerpt: "An introduction to me myself by the end of my junior year.<br/> <img src='/images/portfolio_4/Slide1.JPG' style='zoom:40%;'/>"
 collection: portfolio
 ---
 
