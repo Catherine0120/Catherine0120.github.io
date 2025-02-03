@@ -19,7 +19,7 @@ I am energetic and passionate about embracing diverse life experiences. I have l
 News
 -----
 
-<div style="display: flex; flex-direction: column; gap: 10px;">
+<div style="font-size: 14px; display: flex; flex-direction: column; gap: 10px;">
 
   <div style="display: flex; justify-content: space-between;">
     <strong>Jan 2025, Arabian Peninsula</strong><span style="text-align: left; padding-left: 20px;">I travelled in the Arabian Peninsula (Dubai, Abu Dhabi, Doha) for 12 days with my friends at Tsinghua, experiencing the local culture and the modernity of the cities.</span>
@@ -34,7 +34,7 @@ News
   </div>
   
   <div style="display: flex; justify-content: space-between;">
-    <strong style="min-width: 120px;">Sep 2023 - Jun 2024, Oxford</strong>
+    <strong style="min-width: 140px;">Sep 2023 - Jun 2024, Oxford</strong>
     <span style="text-align: left; padding-left: 20px;">
     I exchanged at University of Oxford, taking courses in Economics and Computer Science, travelling in 51 cities / 16 countries for 76 days, and gradually building up my knowledge of the world. You can find my travel diary 
     <a href="https://mp.weixin.qq.com/s/DxDKDCmPfA_VnEVI6iL7pA" target="_blank">here</a> and through WeChat Official Account (魔鬼的玫瑰城堡). 
@@ -44,71 +44,71 @@ News
     <a href="http://xhslink.com/A/jVKlgw" target="_blank">Xiao Hong Shu</a>.
     <div style="display: flex; flex-direction: column;">
       <div style="display: flex; padding: 5px 0; gap: 10px;">
-        <strong style="min-width: 130px;">United Kingdom</strong><span>England (London, Oxford, Cambridge, Brighton), Scotland (Glasgow, Oban, Portree/Skye/Inverness, Edinburgh)</span>
+        <strong style="min-width: 140px;">United Kingdom</strong><span>England (London, Oxford, Cambridge, Brighton), Scotland (Glasgow, Oban, Portree/Skye/Inverness, Edinburgh)</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">France</strong><span>Lyon, Nice, Cannes, Versailles</span>
+        <strong style="min-width: 140px;">France</strong><span>Lyon, Nice, Cannes, Versailles</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">Monaco</strong><span>Monaco</span>
+        <strong style="min-width: 140px;">Monaco</strong><span>Monaco</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">Spain</strong><span>Barcelona, Madrid</span>
+        <strong style="min-width: 140px;">Spain</strong><span>Barcelona, Madrid</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">Portugal</strong><span>Lisbon</span>
+        <strong style="min-width: 140px;">Portugal</strong><span>Lisbon</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">Italy</strong><span>Rome, Florence, Milan, Naples, Sicily (Palermo, Catania, Syracuse, Etna, Taormina)</span>
+        <strong style="min-width: 140px;">Italy</strong><span>Rome, Florence, Milan, Naples, Sicily (Palermo, Catania, Syracuse, Etna, Taormina)</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">Vatican</strong><span>Vatican City</span>
+        <strong style="min-width: 140px;">Vatican</strong><span>Vatican City</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">Switzerland</strong><span>Geneva, Interlaken (Jungfraw), Lucerne, Zurich</span>
+        <strong style="min-width: 140px;">Switzerland</strong><span>Geneva, Interlaken (Jungfraw), Lucerne, Zurich</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">Luxembourg</strong><span>Luxembourg City</span>
+        <strong style="min-width: 140px;">Luxembourg</strong><span>Luxembourg City</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">Belgium</strong><span>Brussels, Ghent, Bruges</span>
+        <strong style="min-width: 140px;">Belgium</strong><span>Brussels, Ghent, Bruges</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">Netherlands</strong><span>Amsterdam, The Hague</span>
+        <strong style="min-width: 140px;">Netherlands</strong><span>Amsterdam, The Hague</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">Germany</strong><span>Hamburg, Berlin, Munich</span>
+        <strong style="min-width: 140px;">Germany</strong><span>Hamburg, Berlin, Munich</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">Czech Republic</strong><span>Prague</span>
+        <strong style="min-width: 140px;">Czech Republic</strong><span>Prague</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">Austria</strong><span>Vienna</span>
+        <strong style="min-width: 140px;">Austria</strong><span>Vienna</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">Hungary</strong><span>Budapest</span>
+        <strong style="min-width: 140px;">Hungary</strong><span>Budapest</span>
       </div>
       <div style="display: flex; padding: 5px 0;">
-        <strong style="min-width: 130px;">Morooco</strong><span>Fes, Ifrane, Merzouga, Ouarzazate, Marrakech, Casablanca</span>
+        <strong style="min-width: 140px;">Morooco</strong><span>Fes, Ifrane, Merzouga, Ouarzazate, Marrakech, Casablanca</span>
       </div>
     </div>
     </span>
   </div>
 
   <div style="display: flex; justify-content: space-between;">
-    <strong style="min-width: 120px;">Aug-Sep 2023, Beijing</strong><span style="text-align: left; padding-left: 20px;">I interned at Springs Capital (淡水泉), the top fundamental-strategy based hedge fund, responsible for research in the semiconductor industry.</span>
+    <strong style="min-width: 140px;">Aug-Sep 2023, Beijing</strong><span style="text-align: left; padding-left: 20px;">I interned at Springs Capital (淡水泉), the top fundamental-strategy based hedge fund, responsible for research in the semiconductor industry.</span>
   </div>
 
   <div style="display: flex; justify-content: space-between;">
-    <strong style="min-width: 120px;">Aug 2023, Aranya Qinhuangdao</strong><span style="text-align: left; padding-left: 20px;">I took a short trip with my family to Aranya, a beautiful seaside resort in Qinhuangdao, to relax and enjoy the sea breeze.</span>
+    <strong style="min-width: 140px;">Aug 2023, Qinhuangdao</strong><span style="text-align: left; padding-left: 20px;">I took a short trip with my family to Aranya, a beautiful seaside resort in Qinhuangdao, to relax and enjoy the sea breeze.</span>
   </div>
 
   <div style="display: flex; justify-content: space-between;">
-    <strong style="min-width: 120px;">Aug 2023, Seattle</strong><span style="text-align: left; padding-left: 20px;">I went to Seattle, the city of Microsoft, Amazon and Starbucks, to explore the American culture and investigate into these IT giants.</span>
+    <strong style="min-width: 140px;">Aug 2023, Seattle</strong><span style="text-align: left; padding-left: 20px;">I went to Seattle, the city of Microsoft, Amazon and Starbucks, to explore the American culture and investigate into these IT giants.</span>
   </div>
 
   <div style="display: flex; justify-content: space-between;">
-    <strong style="min-width: 120px;">Jul 2023, Shanghai</strong><span style="text-align: left; padding-left: 20px;">I interned at X-Asset Management (信弘天禾), a 10 billion RMB AUM quant hedge fund, responsible for constructing optimal stock portfolio from factors.</span>
+    <strong style="min-width: 140px;">Jul 2023, Shanghai</strong><span style="text-align: left; padding-left: 20px;">I interned at X-Asset Management (信弘天禾), a 10 billion RMB AUM quant hedge fund, responsible for constructing optimal stock portfolio from factors.</span>
   </div>
 </div>
 
