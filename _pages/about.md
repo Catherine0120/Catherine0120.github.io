@@ -18,7 +18,7 @@ I am energetic and passionate about embracing diverse life experiences. I have l
 
 Academic Achievements
 -----
-<ul style="line-height: 1;">
+<ul style="line-height: 1.5;">
   <li><strong>GPA</strong>: 3.93/4.0 (ranked 1st)</li>
   <li><strong>TOEFL</strong>: 110/120 (R 29, L 29, S 26, W 26), <strong>GRE</strong>: 331/340 (V 161, Q 170, AWA 4.5), <strong>CET6</strong>: 687/710</li>
   <li><strong>Scholarships</strong>: YINGHUA Scholarship, National Scholarship, Tsinghua Overall Excellence Scholarship (achieved twice)</li>
@@ -31,31 +31,31 @@ News
 
 <div style="font-size: 16px; display: flex; flex-direction: column; gap: 10px;">
 
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Internship at JPMorgan Chase & Co. as Summer Analyst in Corporate & Investment Bank – Markets department (Jun-Aug).</span>
   </div>
 
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Internship at Chow Tai Fook Entreprise as Quantitative Researcher (Feb-May).</span>
   </div>
 
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Jan 2025, Arabian Peninsula</strong><span style="text-align: left; padding-left: 20px;">I travelled in the Arabian Peninsula (Dubai, Abu Dhabi, Doha) for 12 days with my friends at Tsinghua, experiencing the local culture and the modernity of the cities.</span>
   </div>
 
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Oct 2024, Beijing</strong><span style="text-align: left; padding-left: 20px;">Awarded National Scholarship (by Ministry of Education).</span>
   </div>
 
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Oct 2024, Hokkaido</strong><span style="text-align: left; padding-left: 20px;">I travelled in Hokkaido during the National Day holiday (went to Asahikawa, Mt. Kurogatake, Otaru and Sapporo with my friend).</span>
   </div>
 
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Jun-Aug 2024, Hong Kong</strong><span style="text-align: left; padding-left: 20px;">I interned at Goldman Sachs (Hong Kong) at Global Investment Research (GIR) division, responsible of carrying out equity research on the consumer sector.</span>
   </div>
   
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Sep 2023 - Jun 2024, Oxford</strong>
     <span style="text-align: left; padding-left: 20px;">
     I exchanged at University of Oxford under YINGHUA scholarship, taking courses in Economics and Computer Science, travelling in 51 cities / 16 countries for 76 days, and gradually building up my knowledge of the world. You can find my travel diary 
@@ -117,27 +117,27 @@ News
     </span>
   </div>
 
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Aug-Sep 2023, Beijing</strong><span style="text-align: left; padding-left: 20px;">I interned at Springs Capital (淡水泉), the top fundamental-strategy based hedge fund, responsible for research in the semiconductor industry.</span>
   </div>
 
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Aug 2023, Qinhuangdao</strong><span style="text-align: left; padding-left: 20px;">I took a short trip with my family to Aranya, a beautiful seaside resort in Qinhuangdao, to relax and enjoy the sea breeze.</span>
   </div>
 
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Aug 2023, Seattle</strong><span style="text-align: left; padding-left: 20px;">I went to Seattle, the city of Microsoft, Amazon and Starbucks, for two weeks, exploring the American culture and investigate into these IT giants.</span>
   </div>
 
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Jul 2023, Shanghai</strong><span style="text-align: left; padding-left: 20px;">I interned at X-Asset Management (信弘天禾), a 10 billion RMB AUM quant hedge fund, responsible for constructing optimal stock portfolio from factors.</span>
   </div>
 
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Jun 2021, Shanghai</strong><span style="text-align: left; padding-left: 20px;">Graduated from Shanghai High School with distinction.</span>
   </div>
 
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Jun 2018, Shanghai</strong><span style="text-align: left; padding-left: 20px;">Graduated from Huayu Middle School with distinction.</span>
   </div>
 
@@ -147,7 +147,7 @@ News
 
 Contact
 ------
-<p style="margin-bottom: 16px;"><strong>Email</strong>: catherinezhang0120@gmail.com | shiying-21@mails.tsinghua.edu.cn</p>
-<p style="margin-bottom: 16px;"><strong>Wechat</strong>: Catherine_zsy0120</p>
-<p style="margin-bottom: 16px;"><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/shiying-zhang-936499272" target="_blank">Shiying (Catherine) Zhang</a></p>
+<p style="margin-bottom: 12px;"><strong>Email</strong>: catherinezhang0120@gmail.com | shiying-21@mails.tsinghua.edu.cn</p>
+<p style="margin-bottom: 12px;"><strong>Wechat</strong>: Catherine_zsy0120</p>
+<p style="margin-bottom: 12px;"><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/shiying-zhang-936499272" target="_blank">Shiying (Catherine) Zhang</a></p>
 

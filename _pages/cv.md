@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image_2/image-20250203133537072.png" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/Catherine0120/ics_image_2/image-20250203133537072.png" />
 
 
 <!-- You can also download my CV here:
