@@ -16,13 +16,35 @@ As a dual-degree student, I have a deep passion for Computer Science, Economics,
 I am energetic and passionate about embracing diverse life experiences. I have lived in Shenzhen (my birthplace), Shanghai (my hometown), Beijing (my university), Oxford (my exchange year), and Hong Kong (my internship), and have travelled in 25 countries. By the time of my graduation, I will have completed seven internships, two research projects, participated in multiple competitions, and earned several scholarships (including a National Scholarship). On campus, I served as the department leader of SEM SU, a member of CST SAST, class monitor, and leader of the CST Debate Team. I enjoy debating (having been awarded best debater in my freshman year), poker (representing Oxford in a UK poker competition), cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
 
 
+Academic Achievements
+-----
+<ul style="line-height: 1;">
+  <li><strong>GPA</strong>: 3.93/4.0 (ranked 1st)</li>
+  <li><strong>TOEFL</strong>: 110/120 (R 29, L 29, S 26, W 26), <strong>GRE</strong>: 331/340 (V 161, Q 170, AWA 4.5), <strong>CET6</strong>: 687/710</li>
+  <li><strong>Scholarships</strong>: YINGHUA Scholarship, National Scholarship, Tsinghua Overall Excellence Scholarship (achieved twice)</li>
+  <li><strong>Research Field</strong>: quantitative and fundamental analysis of secondary market, deep learning's application in stock market</li>
+</ul>
+
+
 News
 -----
 
 <div style="font-size: 16px; display: flex; flex-direction: column; gap: 10px;">
 
   <div style="display: flex; justify-content: space-between;">
+    <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Internship at JPMorgan Chase & Co. as Summer Analyst in Corporate & Investment Bank – Markets department (Jun-Aug).</span>
+  </div>
+
+  <div style="display: flex; justify-content: space-between;">
+    <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Internship at Chow Tai Fook Entreprise as Quantitative Researcher (Feb-May).</span>
+  </div>
+
+  <div style="display: flex; justify-content: space-between;">
     <strong style="min-width: 150px; width: 150px;">Jan 2025, Arabian Peninsula</strong><span style="text-align: left; padding-left: 20px;">I travelled in the Arabian Peninsula (Dubai, Abu Dhabi, Doha) for 12 days with my friends at Tsinghua, experiencing the local culture and the modernity of the cities.</span>
+  </div>
+
+  <div style="display: flex; justify-content: space-between;">
+    <strong style="min-width: 150px; width: 150px;">Oct 2024, Beijing</strong><span style="text-align: left; padding-left: 20px;">Awarded National Scholarship (by Ministry of Education).</span>
   </div>
 
   <div style="display: flex; justify-content: space-between;">
@@ -36,13 +58,13 @@ News
   <div style="display: flex; justify-content: space-between;">
     <strong style="min-width: 150px; width: 150px;">Sep 2023 - Jun 2024, Oxford</strong>
     <span style="text-align: left; padding-left: 20px;">
-    I exchanged at University of Oxford, taking courses in Economics and Computer Science, travelling in 51 cities / 16 countries for 76 days, and gradually building up my knowledge of the world. You can find my travel diary 
+    I exchanged at University of Oxford under YINGHUA scholarship, taking courses in Economics and Computer Science, travelling in 51 cities / 16 countries for 76 days, and gradually building up my knowledge of the world. You can find my travel diary 
     <a href="https://mp.weixin.qq.com/s/DxDKDCmPfA_VnEVI6iL7pA" target="_blank">here</a> and through WeChat Official Account (魔鬼的玫瑰城堡). 
     I was also actively attending formals at different colleges. I wrote a summary of my experience in formals at 31 colleges 
     <a href="https://mp.weixin.qq.com/s/qjaSvpZxt7OkDRKebd7RlA" target="_blank">here</a>. 
     You may find my expenditure details for the whole year exchange at 
     <a href="http://xhslink.com/A/jVKlgw" target="_blank">Xiao Hong Shu</a>.
-    <div style="display: flex; flex-direction: column;">
+    <div style="font-size: 15px; display: flex; flex-direction: column;">
       <div style="display: flex; padding: 3px 0; gap: 10px;">
         <strong style="min-width: 150px; width: 150px;">UK</strong><span>England (London, Oxford, Cambridge, Brighton), Scotland (Glasgow, Oban, Portree/Skye/Inverness, Edinburgh)</span>
       </div>
@@ -104,25 +126,28 @@ News
   </div>
 
   <div style="display: flex; justify-content: space-between;">
-    <strong style="min-width: 150px; width: 150px;">Aug 2023, Seattle</strong><span style="text-align: left; padding-left: 20px;">I went to Seattle, the city of Microsoft, Amazon and Starbucks, to explore the American culture and investigate into these IT giants.</span>
+    <strong style="min-width: 150px; width: 150px;">Aug 2023, Seattle</strong><span style="text-align: left; padding-left: 20px;">I went to Seattle, the city of Microsoft, Amazon and Starbucks, for two weeks, exploring the American culture and investigate into these IT giants.</span>
   </div>
 
   <div style="display: flex; justify-content: space-between;">
     <strong style="min-width: 150px; width: 150px;">Jul 2023, Shanghai</strong><span style="text-align: left; padding-left: 20px;">I interned at X-Asset Management (信弘天禾), a 10 billion RMB AUM quant hedge fund, responsible for constructing optimal stock portfolio from factors.</span>
   </div>
+
+  <div style="display: flex; justify-content: space-between;">
+    <strong style="min-width: 150px; width: 150px;">Jun 2021, Shanghai</strong><span style="text-align: left; padding-left: 20px;">Graduated from Shanghai High School with distinction.</span>
+  </div>
+
+  <div style="display: flex; justify-content: space-between;">
+    <strong style="min-width: 150px; width: 150px;">Jun 2018, Shanghai</strong><span style="text-align: left; padding-left: 20px;">Graduated from Huayu Middle School with distinction.</span>
+  </div>
+
+
 </div>
-
-
-
-More Info
-------
-My hobbies include Poker, Debating, Hockey and Travelling.
 
 
 Contact
 ------
-Email: catherinezhang0120@gmail.com | shiying-21@mails.tsinghua.edu.cn
+<p style="margin-bottom: 16px;"><strong>Email</strong>: catherinezhang0120@gmail.com | shiying-21@mails.tsinghua.edu.cn</p>
+<p style="margin-bottom: 16px;"><strong>Wechat</strong>: Catherine_zsy0120</p>
+<p style="margin-bottom: 16px;"><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/shiying-zhang-936499272" target="_blank">Shiying (Catherine) Zhang</a></p>
 
-Wechat: Catherine_zsy0120
-
-LinkedIn: [Shiying (Catherine) Zhang](https://www.linkedin.com/in/shiying-zhang-936499272)
