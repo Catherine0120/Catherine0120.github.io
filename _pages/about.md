@@ -19,18 +19,18 @@ I am energetic and passionate about embracing diverse life experiences. I have l
 News
 -----
 
-<div style="font-size: 15px; display: flex; flex-direction: column; gap: 10px;">
+<div style="font-size: 16px; display: flex; flex-direction: column; gap: 10px;">
 
   <div style="display: flex; justify-content: space-between;">
-    <strong>Jan 2025, Arabian Peninsula</strong><span style="text-align: left; padding-left: 20px;">I travelled in the Arabian Peninsula (Dubai, Abu Dhabi, Doha) for 12 days with my friends at Tsinghua, experiencing the local culture and the modernity of the cities.</span>
+    <strong style="min-width: 150px; width: 150px;">Jan 2025, Arabian Peninsula</strong><span style="text-align: left; padding-left: 20px;">I travelled in the Arabian Peninsula (Dubai, Abu Dhabi, Doha) for 12 days with my friends at Tsinghua, experiencing the local culture and the modernity of the cities.</span>
   </div>
 
   <div style="display: flex; justify-content: space-between;">
-    <strong>Oct 2024, Hokkaido</strong><span style="text-align: left; padding-left: 20px;">I travelled in Hokkaido during the National Day holiday (went to Asahikawa, Mt. Kurogatake, Otaru and Sapporo with my friend).</span>
+    <strong style="min-width: 150px; width: 150px;">Oct 2024, Hokkaido</strong><span style="text-align: left; padding-left: 20px;">I travelled in Hokkaido during the National Day holiday (went to Asahikawa, Mt. Kurogatake, Otaru and Sapporo with my friend).</span>
   </div>
 
   <div style="display: flex; justify-content: space-between;">
-    <strong>Jun-Aug 2024, Hong Kong</strong><span style="text-align: left; padding-left: 20px;">I interned at Goldman Sachs (Hong Kong) at Global Investment Research (GIR) division, responsible of carrying out equity research on the consumer sector.</span>
+    <strong style="min-width: 150px; width: 150px;">Jun-Aug 2024, Hong Kong</strong><span style="text-align: left; padding-left: 20px;">I interned at Goldman Sachs (Hong Kong) at Global Investment Research (GIR) division, responsible of carrying out equity research on the consumer sector.</span>
   </div>
   
   <div style="display: flex; justify-content: space-between;">
