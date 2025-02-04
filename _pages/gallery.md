@@ -10,7 +10,7 @@ redirect_from:
 
 Here, some photos memorizing my unforgettable moments during my travelling are displayed.
 
-<img src='/images/gallery/portraint4.jpg' style='zoom:40%;'/>
+<img src='/images/gallery/portrait4.jpg' style='zoom:40%;'/>
 *Me at Tsinghua in 2024 Fall.*
 
 
