@@ -65,14 +65,14 @@ News
     You may find my expenditure details for the whole year exchange at 
     <a href="http://xhslink.com/A/jVKlgw" target="_blank">Xiao Hong Shu</a>.
     <div style="font-size: 15px; display: flex; flex-direction: column;">
-      <div style="display: flex; padding: 3px 0; gap: 10px;">
-        <strong style="min-width: 150px; width: 150px;">UK</strong><span>England (London, Oxford, Cambridge, Brighton), Scotland (Glasgow, Oban, Portree/Skye/Inverness, Edinburgh)</span>
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">UK</strong><span>England (London, Oxford, Cambridge, Brighton), Scotland (Glasgow, Oban, Portree/Skye, Inverness, Edinburgh)</span>
       </div>
       <div style="display: flex; padding: 3px 0;">
         <strong style="min-width: 150px; width: 150px;">France</strong><span>Lyon, Nice, Cannes, Versailles</span>
       </div>
       <div style="display: flex; padding: 3px 0;">
-        <strong style="min-width: 150px; width: 150px;">Monaco</strong><span>Monaco</span>
+        <strong style="min-width: 150px; width: 150px;">Monaco</strong><span>Monaco City</span>
       </div>
       <div style="display: flex; padding: 3px 0;">
         <strong style="min-width: 150px; width: 150px;">Spain</strong><span>Barcelona, Madrid</span>
@@ -87,7 +87,7 @@ News
         <strong style="min-width: 150px; width: 150px;">Vatican</strong><span>Vatican City</span>
       </div>
       <div style="display: flex; padding: 3px 0;">
-        <strong style="min-width: 150px; width: 150px;">Switzerland</strong><span>Geneva, Interlaken (Jungfraw), Lucerne, Zurich</span>
+        <strong style="min-width: 150px; width: 150px;">Switzerland</strong><span>Geneva, Interlaken (Jungfrau), Lucerne, Zurich</span>
       </div>
       <div style="display: flex; padding: 3px 0;">
         <strong style="min-width: 150px; width: 150px;">Luxembourg</strong><span>Luxembourg City</span>
@@ -126,7 +126,7 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Aug 2023, Seattle</strong><span style="text-align: left; padding-left: 20px;">I went to Seattle, the city of Microsoft, Amazon and Starbucks, for two weeks, exploring the American culture and investigate into these IT giants.</span>
+    <strong style="min-width: 150px; width: 150px;">Aug 2023, Seattle</strong><span style="text-align: left; padding-left: 20px;">I went to Seattle, the city of Microsoft, Amazon and Starbucks, for two weeks, exploring the American culture and investigate into these IT giants. I also visited University of Washington there.</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">

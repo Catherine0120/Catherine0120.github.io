@@ -12,9 +12,34 @@ Here, you may find out some notes I took in Markdown format during my study at T
 
 
 
+
+## Western Civilization
+
+I took Western Civilization taught by Prof [ZENGDING WU](https://www.xyc.tsinghua.edu.cn/info/1325/2662.htm) during my first semester of my final year. 
+
++ [Bible - Genesis](/files/Bible_Genesis.pdf): This note is a notes of the key ideas of the Bible - Genesis.
+  
++ [The Republic](/files/The_Republic.pdf): This note is a notes of the key ideas of The Republic by Plato. (Reference: https://milkpku.github.io/blog/categories/Philosophy/)
+
++ [The Prince](/files/The_Prince.pdf): This note is a notes of the key ideas of The Prince by Machiavelli.
+
++ [Discourse on the Origin and Basis of Inequality](/files/Discourse_on_the_Origin_and_Basis_of_Inequality.pdf): This note is a notes of the key ideas of Discourse on the Origin and Basis of Inequality by Rousse
+
+
+
+
+## Computer Organization
+
+I took Computer Organization taught by Prof [YOUYOU LU](https://www.cs.tsinghua.edu.cn/info/1108/3941.htm) during my first semester of my final year. This note comprehensively covers knowledge of RISC-V, pipelining, cache and memory hierarchy, and storage systems.
+
+[Computer Organization Note by Shiying](/files/Computer_Organization.pdf)
+
+
+
+
 ## History of World Economy (Oxford)
 
-I am taking History of World Economy taught by Prof [Terry O'Shaughnessy](https://www.st-annes.ox.ac.uk/cpt_people/oshaughnessy-dr-terry/) during Trinity Term of my junior year at Oxford University.
+I took History of World Economy taught by Prof [Terry O'Shaughnessy](https://www.st-annes.ox.ac.uk/cpt_people/oshaughnessy-dr-terry/) during Trinity Term of my junior year at Oxford University.
 
 [History of World Economy Note by Shiying](/files/History_of_World_Economy.pdf)
 
@@ -23,7 +48,7 @@ I am taking History of World Economy taught by Prof [Terry O'Shaughnessy](https:
 
 ## Game Theory (Oxford)
 
-I am taking Game Theory taught by Prof [Peter Eso](https://www.economics.ox.ac.uk/people/peter-eso-0) during Hilary Term of my junior year at Oxford University.
+I took Game Theory taught by Prof [Peter Eso](https://www.economics.ox.ac.uk/people/peter-eso-0) during Hilary Term of my junior year at Oxford University.
 
 [Game Theory Note by Shiying](/files/Game_Theory.pdf)
 
@@ -119,9 +144,9 @@ I took OOP taught by Prof [MINLIE HUANG](https://www.cs.tsinghua.edu.cn/info/112
 
 I took Econometrics(1) (Grade: A) taught by Prof [LIANGJUN SU](https://www.sem.tsinghua.edu.cn/info/1206/32089.htm) during my first semester of my sophomore year and took Econometrics(2) (Grade: A+) taught by Prof [SAINAN JIN](https://www.tioe.tsinghua.edu.cn/info/1179/2211.htm) during my second semester of my sophomore year. Students are permitted to use a cheatsheet during exams for these courses. Therefore, I have prepared my cheatsheet below, which I believe encompasses the comprehensive structure and essential details of the course content.
 
-+ [Econometrics(1) Cheatsheet by Shiying](/files/Econometrics_1.pdf)
++ [Econometrics(1) Cheatsheet by Shiying](/files/Econometrics_1.pdf): covering the basic concepts of econometrics, including linear regression, instrumental variables, and multiple regression analysis (Heteroscedasticity, Asymptotic Properties, etc.).
 
-+ [Econometrics(2) Cheatsheet by Shiying](/files/Econometrics_2.pdf)
++ [Econometrics(2) Cheatsheet by Shiying](/files/Econometrics_2.pdf): covering the advanced concepts of econometrics, including panel data and time series.
 
 
 
