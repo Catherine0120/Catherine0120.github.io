@@ -10,14 +10,14 @@ redirect_from:
 
 Here, some photos memorizing my unforgettable moments during my travelling are displayed.
 
-<img src='/images/gallery/portrait4.jpg' style='zoom:40%;'/>
-*Me at Tsinghua in 2024 Fall.*
-
-
-
-
 <img src='/images/gallery/portrait5.jpg' style='zoom:40%;'/>
 *Me at Dubai in January 2025.*
+
+
+
+
+<img src='/images/gallery/portrait4.jpg' style='zoom:40%;'/>
+*Me at Tsinghua in 2024 Fall.*
 
 
 
