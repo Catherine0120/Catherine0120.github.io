@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 <br />
-This is the homepage of Shiying (Catherine) Zhang（张诗颖）, a final-year undergraduate at Tsinghua University, majoring in [Computer Science and Technology + Economics and Finance (double bachelors degree)](https://ug.sem.tsinghua.edu.cn/bkjbkxm/jsjyjr.htm). During my junior year, I exchanged at University of Oxford, which was fully sponsored by the prestigious [Yinghua Scholarship](https://goglobal.tsinghua.edu.cn/yinghuascholars).
+This is the homepage of Shiying (Catherine) Zhang（张诗颖）, a final-year undergraduate at Tsinghua University, majoring in [Computer Science and Technology + Economics and Finance (double bachelors degree)](https://ug.sem.tsinghua.edu.cn/bkjbkxm/jsjyjr.htm). During my junior year, I exchanged at University of Oxford, which was fully sponsored by the prestigious [Yinghua Scholarship](https://goglobal.tsinghua.edu.cn/yinghuascholars). I'm expected to pursue my Master's degree in Finance at Princeton University after graduation.
 
-As a dual-degree student, I have a deep passion for Computer Science, Economics, and Finance. I am fascinated by the insights Economics offers into human behavior and the world, the ingenuity behind computer engineering, the rigor of mathematical logic, and the dynamic challenges of the financial markets. Together, these fields provide me with two distinct yet complementary ways of thinking that I believe will profoundly shape my future. In terms of my career, I aspire to work at a hedge fund, where I can apply both my quantitative and fundamental analytical skills to guide decision-making and contribute to innovative solutions within the financial sector.
+As a dual-degree student, I have a deep passion for Computer Science, Economics, and Finance. I am fascinated by the insights Economics offers into human behavior and the world, the ingenuity behind computer engineering, the rigor of mathematical logic, and the dynamic challenges of the financial markets. Together, these fields provide me with two distinct yet complementary ways of thinking that I believe will profoundly shape my future. In terms of my career, I aspire to work at a hedge fund, where I can apply both my quantitative and fundamental analytical skills to guide decision-making and gain insights into the financial markets, especially into impacts of events on market prices.
 
-I am energetic and passionate about embracing diverse life experiences. I have lived in Shenzhen (my birthplace), Shanghai (my hometown), Beijing (my university), Oxford (my exchange year), and Hong Kong (my internship), and have travelled in 25 countries. By the time of my graduation, I will have completed seven internships, two research projects, participated in multiple competitions, and earned several scholarships (including a National Scholarship). On campus, I served as the department leader of SEM SU, a member of CST SAST, class monitor, and leader of the CST Debate Team. I enjoy debating (having been awarded best debater in my freshman year), poker (representing Oxford in a UK poker competition), cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
+I am energetic and passionate about embracing diverse life experiences. I have lived in Shenzhen (my birthplace), Shanghai (my hometown), Beijing (my university), Oxford (my exchange year), and Hong Kong (my internship), and have travelled in 28 countries. By the time of my graduation, I will have completed seven internships, two research projects, participated in multiple competitions, and earned several scholarships. On campus, I served as the department leader of SEM SU, a member of CST SAST, class monitor, and leader of the CST Debate Team. 
+
+I enjoy debating (having been awarded best debater in my freshman year), poker (representing Oxford in a UK poker competition), writing (I'm a Wechat official account owner and have published nearly 100 original articles), travelling, cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
 
 
 Academic Achievements
@@ -39,7 +41,15 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Current</strong><span style="text-align: left; padding-left: 20px;">Internship at Chow Tai Fook Entreprise as Quantitative Researcher (Feb-May).</span>
+    <strong style="min-width: 150px; width: 150px;">Apr 2025, Afro-Eurasia</strong><span style="text-align: left; padding-left: 20px;">I will be travelling in Georgia, Turkey and Azerbaijan for 10 days with my friends at Tsinghua, experiencing the local culture and the modernity of the cities.</span>
+  </div>
+
+  <div style="display: flex; justify-content: flex-start;">
+    <strong style="min-width: 150px; width: 150px;">Apr 2025, Datong</strong><span style="text-align: left; padding-left: 20px;">I travelled in Datong, Shanxi Province, for 4 days with my friends at Tsinghua, visiting the Yungang Grottoes and the Hanging Monastery during Qingming Festival.</span>
+  </div>
+
+  <div style="display: flex; justify-content: flex-start;">
+    <strong style="min-width: 150px; width: 150px;">Feb-May 2025, Beijing</strong><span style="text-align: left; padding-left: 20px;">I interned at Chow Tai Fook Entreprise (Family Office) as Quantitative Researcher, carried out LLM's application in news factor extraction in stock price prediction.</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
