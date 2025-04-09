@@ -30,13 +30,16 @@ News
 -----
 
 <div style="font-size: 16px; display: flex; flex-direction: column; gap: 10px;">
+  <div style="display: flex; justify-content: flex-start;">
+    <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Graduate student (MFin '27) at Princeton University.</span>
+  </div>
 
   <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Internship at JPMorgan Chase & Co. as Summer Analyst in Corporate & Investment Bank – Markets department (Jun-Aug).</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Internship at Chow Tai Fook Entreprise as Quantitative Researcher (Feb-May).</span>
+    <strong style="min-width: 150px; width: 150px;">Current</strong><span style="text-align: left; padding-left: 20px;">Internship at Chow Tai Fook Entreprise as Quantitative Researcher (Feb-May).</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
