@@ -15,7 +15,7 @@ As a dual-degree student, I have a deep passion for Computer Science, Economics,
 
 I am energetic and passionate about embracing diverse life experiences. I have lived in Shenzhen (my birthplace), Shanghai (my hometown), Beijing (my university), Oxford (my exchange year), and Hong Kong (my internship), and have travelled in 28 countries. By the time of my graduation, I will have completed seven internships, two research projects, participated in multiple competitions, and earned several scholarships. On campus, I served as the department leader of SEM SU, a member of CST SAST, class monitor, and leader of the CST Debate Team. 
 
-I enjoy debating (having been awarded best debater in my freshman year), poker (representing Oxford in a UK poker competition), writing (I'm a Wechat official account owner and have published nearly 100 original articles), travelling, cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
+I enjoy debating (having been awarded best debater in my freshman year), poker (representing Oxford in a UK poker competition), writing (I'm a Wechat official account owner (*The Castle*) and have published nearly 100 original articles), travelling, cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
 
 
 Academic Achievements
@@ -72,7 +72,7 @@ News
     <strong style="min-width: 150px; width: 150px;">Sep 2023 - Jun 2024, Oxford</strong>
     <span style="text-align: left; padding-left: 20px;">
     I exchanged at University of Oxford under YINGHUA scholarship, taking courses in Economics and Computer Science, travelling in 51 cities / 16 countries for 76 days, and gradually building up my knowledge of the world. You can find my travel diary 
-    <a href="https://mp.weixin.qq.com/s/DxDKDCmPfA_VnEVI6iL7pA" target="_blank">here</a> and through WeChat Official Account (魔鬼的玫瑰城堡). 
+    <a href="https://mp.weixin.qq.com/s/DxDKDCmPfA_VnEVI6iL7pA" target="_blank">here</a> and through WeChat Official Account (The Castle). 
     I was also actively attending formals at different colleges. I wrote a summary of my experience in formals at 31 colleges 
     <a href="https://mp.weixin.qq.com/s/qjaSvpZxt7OkDRKebd7RlA" target="_blank">here</a>. 
     You may find my expenditure details for the whole year exchange at 
