@@ -33,7 +33,7 @@ News
 
 <div style="font-size: 16px; display: flex; flex-direction: column; gap: 10px;">
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Graduate student (MFin '27) at Princeton University.</span>
+    <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Master candidate (MFin '27) at Princeton University.</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
@@ -41,7 +41,7 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Apr 2025, Afro-Eurasia</strong><span style="text-align: left; padding-left: 20px;">I will be travelling in Georgia, Turkey and Azerbaijan for 10 days with my friends at Tsinghua, experiencing the local culture and the modernity of the cities.</span>
+    <strong style="min-width: 150px; width: 150px;">Apr 2025, Afro-Eurasia</strong><span style="text-align: left; padding-left: 20px;">I will be travelling in Georgia, Turkey and Azerbaijan for 10 days with my friends at Tsinghua, experiencing the local culture and the modernity of the cities during the Labour Holiday.</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
