@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 <br />
-This is the homepage of Shiying (Catherine) Zhang（张诗颖）, a final-year undergraduate at Tsinghua University, majoring in [Computer Science and Technology + Economics and Finance (double bachelors degree)](https://ug.sem.tsinghua.edu.cn/bkjbkxm/jsjyjr.htm). During my junior year, I exchanged at University of Oxford, which was fully sponsored by the prestigious [Yinghua Scholarship](https://goglobal.tsinghua.edu.cn/yinghuascholars). I'm expected to pursue my Master's degree in Finance at Princeton University after graduation.
+This is the homepage of Shiying (Catherine) Zhang（张诗颖）, a final-year undergraduate at Tsinghua University, majoring in [Computer Science and Technology + Economics and Finance (double bachelors degree)](https://ug.sem.tsinghua.edu.cn/bkjbkxm/jsjyjr.htm). I exchanged at University of Oxford, fully sponsored by the prestigious [Yinghua Scholarship](https://goglobal.tsinghua.edu.cn/yinghuascholars), during my junior year. I'm expected to pursue my Master's degree in Financial Mathmatics (MFin) at Princeton University after graduation.
 
 As a dual-degree student, I have a deep passion for Computer Science, Economics, and Finance. I am fascinated by the insights Economics offers into human behavior and the world, the ingenuity behind computer engineering, the rigor of mathematical logic, and the dynamic challenges of the financial markets. Together, these fields provide me with two distinct yet complementary ways of thinking that I believe will profoundly shape my future. In terms of my career, I aspire to work at a hedge fund, where I can apply both my quantitative and fundamental analytical skills to guide decision-making and gain insights into the financial markets, especially into impacts of events on market prices.
 
-I am energetic and passionate about embracing diverse life experiences. I have lived in Shenzhen (my birthplace), Shanghai (my hometown), Beijing (my university), Oxford (my exchange year), and Hong Kong (my internship), and have travelled in 28 countries. By the time of my graduation, I will have completed seven internships, two research projects, participated in multiple competitions, and earned several scholarships. On campus, I served as the department leader of SEM SU, a member of CST SAST, class monitor, and leader of the CST Debate Team. 
+I am energetic and passionate about embracing diverse life experiences. I have lived in Shenzhen (my birthplace), Shanghai (my hometown), Beijing (my university), Oxford (my exchange year), and Hong Kong (my internship), and have travelled in many places. By the time of my graduation, I will have completed seven internships, two research projects, participated in multiple competitions, and earned several scholarships. On campus, I served as the department leader of SEM SU, a member of CST SAST, class monitor, and leader of the CST Debate Team. 
 
-I enjoy debating (having been awarded best debater in my freshman year), poker (representing Oxford in a UK poker competition), writing (I'm a Wechat official account owner (*The Castle*) and have published nearly 100 original articles), travelling, cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
+I enjoy debating (having been awarded best debater in my freshman year), poker (representing Oxford in a UK poker competition), writing (I'm a Wechat official account owner *(The Castle)* and have published nearly 100 original articles), travelling (have visited 28 countries / 120 cities), cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
 
 
 Academic Achievements
@@ -37,7 +37,7 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Internship at JPMorgan Chase & Co. as Summer Analyst in Corporate & Investment Bank – Markets department (Jun-Aug).</span>
+    <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Internship at JPMorgan Chase & Co. as Summer Analyst in Corporate & Investment Bank – Markets program (Jun-Aug).</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
@@ -49,7 +49,7 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Feb-May 2025, Beijing</strong><span style="text-align: left; padding-left: 20px;">I interned at Chow Tai Fook Entreprise (Family Office) as Quantitative Researcher, carried out LLM's application in news factor extraction in stock price prediction.</span>
+    <strong style="min-width: 150px; width: 150px;">Feb-May 2025, Beijing</strong><span style="text-align: left; padding-left: 20px;">I interned at Chow Tai Fook Entreprise (Family Office) as Quantitative Researcher, carried out LLM's application in news factor extraction in stock price prediction, and developed an AI-based news reviewer app for stock price analysis.</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
@@ -160,7 +160,7 @@ News
 
 Contact
 ------
-<p style="margin-bottom: 12px;"><strong>Email</strong>: catherinezhang0120@gmail.com | shiying-21@mails.tsinghua.edu.cn</p>
+<p style="margin-bottom: 12px;"><strong>Email</strong>: catherinezhang0120@gmail.com | sz9883@princeton.edu | shiying-21@mails.tsinghua.edu.cn</p>
 <p style="margin-bottom: 12px;"><strong>Wechat</strong>: Catherine_zsy0120</p>
 <p style="margin-bottom: 12px;"><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/shiying-zhang-936499272" target="_blank">Shiying (Catherine) Zhang</a></p>
 
