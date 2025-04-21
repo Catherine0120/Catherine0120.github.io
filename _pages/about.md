@@ -41,7 +41,18 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Apr 2025, Afro-Eurasia</strong><span style="text-align: left; padding-left: 20px;">I will be travelling in Georgia, Turkey and Azerbaijan for 10 days with my friends at Tsinghua, experiencing the local culture and the modernity of the cities during the Labour Holiday.</span>
+    <strong style="min-width: 150px; width: 150px;">Apr-May 2025, Afro-Eurasia</strong><span style="text-align: left; padding-left: 20px;">I will be travelling in Georgia, Turkey and Azerbaijan for 11 days with my friends at Tsinghua, experiencing Caucasian culture and Turkish culture during the Labour Day holiday.</span>
+    <div style="font-size: 15px; display: flex; flex-direction: column;">
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">Georgia</strong><span>Tbilisi, Sighnaghi, Kazbegi</span>
+      </div>
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">Turkey</strong><span>Istanbul, Bursa</span>
+      </div>
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">Azerbaijan</strong><span>Baku</span>
+      </div>
+    </div>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
@@ -53,7 +64,15 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Jan 2025, Arabian Peninsula</strong><span style="text-align: left; padding-left: 20px;">I travelled in the Arabian Peninsula (Dubai, Abu Dhabi, Doha) for 12 days with my friends at Tsinghua, experiencing the local culture and the modernity of the cities.</span>
+    <strong style="min-width: 150px; width: 150px;">Jan 2025, Arabian Peninsula</strong><span style="text-align: left; padding-left: 20px;">I travelled in the Arabian Peninsula for 12 days with my friends at Tsinghua, experiencing Islamic culture and the modernity of the cities.</span>
+    <div style="font-size: 15px; display: flex; flex-direction: column;">
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">UAE</strong><span>Dubai, Abu Dhabi</span>
+      </div>
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">Qatar</strong><span>Doha</span>
+      </div>
+    </div>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
@@ -61,7 +80,7 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Oct 2024, Hokkaido</strong><span style="text-align: left; padding-left: 20px;">I travelled in Hokkaido during the National Day holiday (went to Asahikawa, Mt. Kurogatake, Otaru and Sapporo with my friend).</span>
+    <strong style="min-width: 150px; width: 150px;">Oct 2024, Hokkaido</strong><span style="text-align: left; padding-left: 20px;">I travelled in Hokkaido during the National Day holiday (went to Asahikawa, Mt. Kurogatake, Otaru and Sapporo with my friend for 5 days).</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
