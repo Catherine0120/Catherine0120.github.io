@@ -41,7 +41,8 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Apr-May 2025, Afro-Eurasia</strong><span style="text-align: left; padding-left: 20px;">I will be travelling in Georgia, Turkey and Azerbaijan for 11 days with my friends at Tsinghua, experiencing Caucasian culture and Turkish culture during the Labour Day holiday.</span>
+    <strong style="min-width: 150px; width: 150px;">Apr-May 2025, Afro-Eurasia</strong>
+    <span style="text-align: left; padding-left: 20px;">I will be travelling in Georgia, Turkey and Azerbaijan for 11 days with my friends at Tsinghua, experiencing Caucasian culture and Turkish culture during the Labour Day holiday.
     <div style="font-size: 15px; display: flex; flex-direction: column;">
       <div style="display: flex; padding: 3px 0;">
         <strong style="min-width: 150px; width: 150px;">Georgia</strong><span>Tbilisi, Sighnaghi, Kazbegi</span>
@@ -53,6 +54,7 @@ News
         <strong style="min-width: 150px; width: 150px;">Azerbaijan</strong><span>Baku</span>
       </div>
     </div>
+    </span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
@@ -64,7 +66,8 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Jan 2025, Arabian Peninsula</strong><span style="text-align: left; padding-left: 20px;">I travelled in the Arabian Peninsula for 12 days with my friends at Tsinghua, experiencing Islamic culture and the modernity of the cities.</span>
+    <strong style="min-width: 150px; width: 150px;">Jan 2025, Arabian Peninsula</strong>
+    <span style="text-align: left; padding-left: 20px;">I travelled in the Arabian Peninsula for 12 days with my friends at Tsinghua, experiencing Islamic culture and the modernity of the cities.
     <div style="font-size: 15px; display: flex; flex-direction: column;">
       <div style="display: flex; padding: 3px 0;">
         <strong style="min-width: 150px; width: 150px;">UAE</strong><span>Dubai, Abu Dhabi</span>
@@ -73,6 +76,7 @@ News
         <strong style="min-width: 150px; width: 150px;">Qatar</strong><span>Doha</span>
       </div>
     </div>
+    </span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
