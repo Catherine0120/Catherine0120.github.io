@@ -23,7 +23,7 @@ Academic Achievements
 <ul style="line-height: 1.5;">
   <li><strong>GPA</strong>: 3.93/4.0 (ranked 1st)</li>
   <li><strong>TOEFL</strong>: 110/120 (R 29, L 29, S 26, W 26), <strong>GRE</strong>: 331/340 (V 161, Q 170, AWA 4.5), <strong>CET6</strong>: 687/710</li>
-  <li><strong>Scholarships</strong>: YINGHUA Scholarship, National Scholarship, Tsinghua Overall Excellence Scholarship (achieved twice)</li>
+  <li><strong>Honors</strong>: Graduate with Honors (Top 2%), YINGHUA Scholarship, National Scholarship, Tsinghua Overall Excellence Scholarship (achieved twice)</li>
   <li><strong>Research Field</strong>: quantitative and fundamental analysis of secondary market, deep learning's application in stock market</li>
 </ul>
 
