@@ -22,7 +22,7 @@ Academic Achievements
 -----
 <ul style="line-height: 1.5;">
   <li><strong>GPA</strong>: 3.93/4.0 (ranked 1st)</li>
-  <li><strong>TOEFL</strong>: 110/120 (R 29, L 29, S 26, W 26), <strong>GRE</strong>: 331/340 (V 161, Q 170, AWA 4.5), <strong>CET6</strong>: 687/710</li>
+  <li><strong>TOEFL</strong>: 110/120 (R 29, L 29, S 26, W 26), <strong>GRE</strong>: 331/340 (V 161, Q 170, AWA 4), <strong>CET6</strong>: 687/710</li>
   <li><strong>Honors</strong>: Graduate with Honors (Top 2%), YINGHUA Scholarship, National Scholarship, Tsinghua Overall Excellence Scholarship (achieved twice)</li>
   <li><strong>Research Field</strong>: quantitative and fundamental analysis of secondary market, deep learning's application in stock market</li>
 </ul>
@@ -38,6 +38,10 @@ News
 
   <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Internship at JPMorgan Chase & Co. as Summer Analyst in Corporate & Investment Bank – Markets program (Jun-Aug).</span>
+  </div>
+
+  <div style="display: flex; justify-content: flex-start;">
+    <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Achieved my bachelors degrees in Economics and Engineering, graduated from Tsinghua University.</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
@@ -185,5 +189,6 @@ Contact
 ------
 <p style="margin-bottom: 12px;"><strong>Email</strong>: catherinezhang0120@gmail.com | sz9883@princeton.edu | shiying-21@mails.tsinghua.edu.cn</p>
 <p style="margin-bottom: 12px;"><strong>Wechat</strong>: Catherine_zsy0120</p>
+<p style="margin-bottom: 12px;"><strong>Instagram</strong>: catherinezhang0120</p>
 <p style="margin-bottom: 12px;"><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/shiying-zhang-936499272" target="_blank">Shiying (Catherine) Zhang</a></p>
 
