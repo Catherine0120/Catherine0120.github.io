@@ -15,16 +15,16 @@ As a dual-degree student, I have a deep passion for Computer Science, Economics,
 
 I am energetic and passionate about embracing diverse life experiences. I have lived in Shenzhen (my birthplace), Shanghai (my hometown), Beijing (my university), Oxford (my exchange year), and Hong Kong (my internship), and have travelled in many places. By the time of my graduation, I will have completed seven internships, two research projects, participated in multiple competitions, and earned several scholarships. On campus, I served as the department leader of SEM SU, a member of CST SAST, class monitor, and leader of the CST Debate Team. 
 
-I enjoy debating (having been awarded best debater in my freshman year), poker (representing Oxford in a UK poker competition), writing (I'm a Wechat official account owner *(The Castle)* and have published nearly 100 original articles), travelling (have visited 28 countries / 120 cities), cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
+I enjoy debating (having been awarded best debater in my freshman year), poker (representing Oxford in a UK poker competition), writing (I'm a Wechat official account owner *(The Castle)* and have published more than 100 original articles), travelling (have visited 28 countries / 120 cities), cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
 
 
 Academic Achievements
 -----
 <ul style="line-height: 1.5;">
-  <li><strong>GPA</strong>: 3.93/4.0 (ranked 1st)</li>
+  <li><strong>GPA</strong>: 3.94/4.0 (ranked 1st)</li>
   <li><strong>TOEFL</strong>: 110/120 (R 29, L 29, S 26, W 26), <strong>GRE</strong>: 331/340 (V 161, Q 170, AWA 4), <strong>CET6</strong>: 687/710</li>
-  <li><strong>Honors</strong>: Graduate with Honors (Top 2%), YINGHUA Scholarship, National Scholarship, Tsinghua Overall Excellence Scholarship (achieved twice)</li>
-  <li><strong>Research Field</strong>: quantitative and fundamental analysis of secondary market, deep learning's application in stock market</li>
+  <li><strong>Honors</strong>: Graduate with Honors (Beijing top5% & Tsinghua top2% & SEM 1of2), YINGHUA Scholarship, National Scholarship (Top 2%), Overall Excellence Scholarship (thrice), Excellent Graduation Thesis (Top 2%), Graduation Commencement Speaker</li>
+  <li><strong>Research Field</strong>: quantitative and fundamental analysis of secondary market, quantitative trader, deep learning's application in stock market</li>
 </ul>
 
 
@@ -37,11 +37,11 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Internship at JPMorgan Chase & Co. as Summer Analyst in Corporate & Investment Bank – Markets program (Jun-Aug).</span>
+    <strong style="min-width: 150px; width: 150px;">Jun-Aug 2025</strong><span style="text-align: left; padding-left: 20px;">I interned at JPMorgan Chase & Co. as a Summer Analyst in Markets - Research program, responsible for APAC macro and thematic research. My internship also includes trade shadowing.</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Incoming</strong><span style="text-align: left; padding-left: 20px;">Achieved my bachelors degrees in Economics and Engineering, graduated from Tsinghua University.</span>
+    <strong style="min-width: 150px; width: 150px;">Jun 2025</strong><span style="text-align: left; padding-left: 20px;">I achieved my bachelors degrees in Economics (Economics and Finance) and Engineering (Computer Science and Technology), graduated from Tsinghua University. I was recognized as a Graduate with Honors (Top 5% in Beijing AND Top 2% at Tsinghua University AND 1 of 2 selected from SEM), awarded Excellent Graduation Thesis (Top 2%), and selected as an SEM Graduation Commencement Speaker.</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">

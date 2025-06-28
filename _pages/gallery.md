@@ -10,6 +10,20 @@ redirect_from:
 
 Here, some photos memorizing my unforgettable moments during my travelling are displayed.
 
+<img src='/images/gallery/portrait7.jpg' style='zoom:20%;'/>
+*Graduated from Tsinghua University in June 2025.*
+
+
+
+
+
+<img src='/images/gallery/portrait6.jpg' style='zoom:20%;'/>
+*Me at Georgia in April 2025.*
+
+
+
+
+
 <img src='/images/gallery/portrait5.jpg' style='zoom:20%;'/>
 *Me at Dubai in January 2025.*
 
