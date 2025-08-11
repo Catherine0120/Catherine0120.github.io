@@ -41,7 +41,7 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Jun 2025, Beijing</strong><span style="text-align: left; padding-left: 20px;">I achieved my bachelors degrees in Economics (Economics and Finance) and Engineering (Computer Science and Technology), graduated from Tsinghua University. I was recognized as a [Graduate with Honors (Top 5% in Beijing AND Top 2% at Tsinghua University AND 1 of 2 selected from SEM)](https://mp.weixin.qq.com/s/tAjGae2Jn4GrZWGlEtXS1A), awarded Excellent Graduation Thesis (Top 2%), and selected as an [SEM Graduation Commencement Speaker](https://mp.weixin.qq.com/s/n30A5Yt4IcVSAyuy-C227g).</span>
+    <strong style="min-width: 150px; width: 150px;">Jun 2025, Beijing</strong><span style="text-align: left; padding-left: 20px;">I achieved my bachelors degrees in Economics (Economics and Finance) and Engineering (Computer Science and Technology), graduated from Tsinghua University. I was recognized as a <a href="https://mp.weixin.qq.com/s/tAjGae2Jn4GrZWGlEtXS1A" target="_blank">Graduate with Honors (Top 5% in Beijing AND Top 2% at Tsinghua University AND 1 of 2 selected from SEM)</a>, awarded Excellent Graduation Thesis (Top 2%), and selected as an <a href="https://mp.weixin.qq.com/s/n30A5Yt4IcVSAyuy-C227g" target="_blank">SEM Graduation Commencement Speaker</a></span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
