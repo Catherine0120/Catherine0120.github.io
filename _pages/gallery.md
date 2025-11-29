@@ -7,7 +7,7 @@ redirect_from:
   - /gallery
 ---  
 
-
+<!-- 
 Here, some photos memorizing my unforgettable moments during my travelling are displayed.
 
 <img src='/images/gallery/portrait7.jpg' style='zoom:20%;'/>
@@ -49,4 +49,4 @@ Here, some photos memorizing my unforgettable moments during my travelling are d
 
 
 <img src='/images/gallery/portrait3.jpg' style='zoom:20%;'/>
-*Me in the cloister of New College, Oxford, UK, during my exchange year in 2023-2024.*
+*Me in the cloister of New College, Oxford, UK, during my exchange year in 2023-2024.* -->

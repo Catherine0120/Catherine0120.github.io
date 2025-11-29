@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 <br />
-This is the homepage of Shiying (Catherine) Zhang（张诗颖）. I'm currently a Master student at Princeton major in Financial Mathematics. I graduated from Tsinghua University with double bachelors degree in Engineering and Economics ([Double majors: Computer Science and Technology + Economics and Finance](https://ug.sem.tsinghua.edu.cn/bkjbkxm/jsjyjr.htm)), during which I exchanged at University of Oxford, fully sponsored by the prestigious [Yinghua Scholarship](https://goglobal.tsinghua.edu.cn/yinghuascholars), during my junior year.
+Hi! This is the homepage of Shiying (Catherine) Zhang. I'm currently a Master student at **Princeton University** major in Financial Mathematics. I graduated from **Tsinghua University** with double bachelors degree in Engineering and Economics ([Double majors: Computer Science and Technology + Economics and Finance](https://ug.sem.tsinghua.edu.cn/bkjbkxm/jsjyjr.htm)), and during my junior year, I exchanged at **University of Oxford**, fully sponsored by the prestigious [Yinghua Scholarship](https://goglobal.tsinghua.edu.cn/yinghuascholars).
 
-As a dual-degree student, I have a deep passion for Computer Science, Economics, and Finance. I am fascinated by the insights Economics offers into human behavior and the world, the ingenuity behind computer engineering, the rigor of mathematical logic, and the dynamic challenges of the financial markets. Together, these fields provide me with two distinct yet complementary ways of thinking that I believe will profoundly shape my future.
+As a dual-degree student, I have a deep passion for both majors. My engineering background trains me to build things with clarity and structure, while economics and finance teach me to ask why—revealing the incentives, markets, and human impulses behind each problem. Together, they give me both the tools to create and the intuition to understand.
 
-I am energetic and passionate about embracing diverse life experiences. I have lived in Shenzhen (my birthplace), Shanghai (my hometown), Beijing (my undergraduate), Oxford (my exchange year), Hong Kong (my internships) and Princeton NJ (my graduate), and have travelled in many places. My internship experiences span from fundamental equity research to quantitative research and trading. At Tsinghua, I also served as the department leader of SEM SU, a member of CST SAST, class monitor, and leader of the CST Debate Team. 
+I'm also energetic and passionate about embracing diverse life experiences. I have lived in Shenzhen (my birthplace), Shanghai (my hometown), Beijing (my undergraduate), Oxford (my exchange year), Hong Kong (my internships) and Princeton (my graduate), and have travelled in many places. My internship experiences span from fundamental equity research to quantitative research and trading.
 
-I enjoy debating (having been awarded best debater in my freshman year), poker (representing Oxford in a UK poker competition), writing (I'm a Wechat official, *The Castle*, account owner and have published more than 100 original articles), travelling (have visited 28 countries / 120+ cities), cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
+I enjoy debating (was awarded best debater in my freshman year), poker (representing Oxford in a UK poker competition), writing (I'm a Wechat official, *The Castle*, account owner and have published more than 100 original articles), travelling (have visited 28 countries / 120+ cities), cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
 
 
 Academic Achievements
@@ -24,7 +24,7 @@ Academic Achievements
   <li><strong>GPA (at Tsinghua)</strong>: 3.94/4.0 (ranked 1st)</li>
   <li><strong>TOEFL</strong>: 110/120 (R 29, L 29, S 26, W 26), <strong>GRE</strong>: 331/340 (V 161, Q 170, AWA 4), <strong>CET6</strong>: 687/710</li>
   <li><strong>Honors</strong>: Graduate with Honors (Beijing top 5% & Tsinghua top 2% & SEM 1 of 2), YINGHUA Scholarship, National Scholarship (Top 2%), Overall Excellence Scholarship (thrice), Excellent Graduation Thesis (Top 2%), Graduation Commencement Speaker</li>
-  <li><strong>Research Field</strong>: quantitative and fundamental analysis of secondary market, quantitative trader</li>
+  <li><strong>Research Field</strong>: quantitative and fundamental research of secondary market, quantitative trading</li>
 </ul>
 
 
@@ -60,11 +60,11 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Jun 2025, Beijing</strong><span style="text-align: left; padding-left: 20px;">I achieved my bachelors degrees in Economics (Economics and Finance) and Engineering (Computer Science and Technology), graduated from Tsinghua University. I was recognized as a <a href="https://mp.weixin.qq.com/s/tAjGae2Jn4GrZWGlEtXS1A" target="_blank">Graduate with Honors (Top 5% in Beijing AND Top 2% at Tsinghua University AND 1 of 2 selected from SEM)</a>, awarded Excellent Graduation Thesis (Top 2%), and selected as an <a href="https://mp.weixin.qq.com/s/n30A5Yt4IcVSAyuy-C227g" target="_blank">SEM Graduation Commencement Speaker</a></span>
+    <strong style="min-width: 150px; width: 150px;">Jun 2025, Beijing</strong><span style="text-align: left; padding-left: 20px;">I achieved my bachelors degrees in Economics (Economics and Finance) and Engineering (Computer Science and Technology), graduated from Tsinghua University. I was recognized as a <a href="https://mp.weixin.qq.com/s/tAjGae2Jn4GrZWGlEtXS1A" target="_blank">Graduate with Honors</a>, awarded Excellent Graduation Thesis, and selected as an <a href="https://mp.weixin.qq.com/s/n30A5Yt4IcVSAyuy-C227g" target="_blank">SEM Graduation Commencement Speaker</a></span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">Apr-May 2025, Afro-Eurasia</strong>
+    <strong style="min-width: 150px; width: 150px;">Apr-May 2025, Eurasia</strong>
     <span style="text-align: left; padding-left: 20px;">I will be travelling in Georgia, Turkey and Azerbaijan for 11 days with my friends at Tsinghua, experiencing Caucasian culture and Turkish culture during the Labour Day holiday.
     <div style="font-size: 15px; display: flex; flex-direction: column;">
       <div style="display: flex; padding: 3px 0;">
