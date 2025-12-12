@@ -56,6 +56,35 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
+    <strong style="min-width: 150px; width: 150px;">[Expected] Jun-Aug 2026, Shanghai</strong><span style="text-align: left; padding-left: 20px;">I'll join Jump Trading during summer as a quantitative trading intern.</span>
+  </div>
+
+  <div style="display: flex; justify-content: flex-start;">
+  <strong style="min-width: 150px; width: 150px;">[Expected] Dec 2025–Jan 2026, South America</strong>
+  <span style="text-align: left; padding-left: 20px;">
+    I'll travel across South America for 24 days over the Christmas break, visiting five countries and exploring coastal cities, Andean capitals and Patagonia with my boyfriend.
+    <div style="font-size: 15px; display: flex; flex-direction: column; margin-top: 5px;">
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">Peru</strong><span>Lima</span>
+      </div>
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">Chile</strong><span>Santiago, Punta Arenas (Tierra del Fuego), Puerto Natales (Torres del Paine)</span>
+      </div>
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">Argentina</strong><span>El Calafate (Perito Moreno Glacier), Buenos Aires</span>
+      </div>
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">Uruguay</strong><span>Colonia, Montevideo</span>
+      </div>
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">Colombia</strong><span>Bogotá</span>
+      </div>
+    </div>
+  </span>
+</div>
+
+
+  <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Jun-Aug 2025, Hong Kong</strong><span style="text-align: left; padding-left: 20px;">I interned at JPMorgan Chase & Co. as a Summer Analyst in Markets - Research program. My project established a data-driven new approach to analyze attention-oriented products and was published and presented in Apac morning meeting. Return-offer extended.</span>
   </div>
 
@@ -65,7 +94,7 @@ News
 
   <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Apr-May 2025, Eurasia</strong>
-    <span style="text-align: left; padding-left: 20px;">I will be travelling in Georgia, Turkey and Azerbaijan for 11 days with my friends at Tsinghua, experiencing Caucasian culture and Turkish culture during the Labour Day holiday.
+    <span style="text-align: left; padding-left: 20px;">I travelled in Georgia, Turkey and Azerbaijan for 11 days with my friends at Tsinghua, experiencing Caucasian culture and Turkish culture during the Labour Day holiday.
     <div style="font-size: 15px; display: flex; flex-direction: column;">
       <div style="display: flex; padding: 3px 0;">
         <strong style="min-width: 150px; width: 150px;">Georgia</strong><span>Tbilisi, Sighnaghi, Kazbegi</span>
