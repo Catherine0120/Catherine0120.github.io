@@ -72,7 +72,7 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">[Expected] Sep 2027, Hong Kong</strong><span style="text-align: left; padding-left: 20px;">I'm excited to return to Jump Trading in Hong Kong as a Quantitative Trader. I expect to rotate across different trading desks. I'm particularly drawn to semi-discretionary trading, where solid quantitative research meets market intuition and judgment in live execution.</span>
+    <strong style="min-width: 150px; width: 150px;">[Expected] Sep 2027, Hong Kong</strong><span style="text-align: left; padding-left: 20px;">I'm excited to return to Jump Trading in Hong Kong as a Quantitative Trader. I expect to rotate across different trading desks. I look forward to combining solid quantitative research with market intuition.</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
