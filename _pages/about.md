@@ -29,17 +29,6 @@ Academic Achievements
 </ul>
 
 
-Selected Notes
------
-I share course notes in Computer Science, Economics & Finance, and Humanities. A few starting points:
-
-- [Data Structure and Algorithm](/files/DSA.html)
-- [Econometrics](/files/Econometrics_2.pdf)
-- [Machine Learning](/files/Machine_Learning.pdf)
-
-[Browse all academic notes](/notes/)
-
-
 News
 -----
 
