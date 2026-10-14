@@ -15,7 +15,7 @@ As a dual-degree student, I have a deep passion for both majors. My engineering 
 
 I'm also energetic and passionate about embracing diverse life experiences. I have lived in Shenzhen (my birthplace), Shanghai (my hometown), Beijing (my undergraduate), Oxford (my exchange year), Hong Kong (my internships) and Princeton (my graduate), and have travelled in many places. My internship experiences span from fundamental equity research to quantitative research and trading.
 
-I enjoy debating (was awarded best debater in my freshman year), poker (representing Oxford in a UK poker competition), writing (I'm a Wechat official, *The Castle*, account owner and have published more than 100 original articles), travelling (have visited 28 countries / 120+ cities), cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
+I enjoy debating (was awarded best debater in my freshman year), poker (representing Oxford in a UK poker competition), writing (I'm a Wechat official, *The Castle*, account owner and have published more than 100 original articles), travelling (have visited 34 countries / 130+ cities), cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
 
 
 Academic Achievements
@@ -72,11 +72,11 @@ News
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">[Expected] Sep 2027, Hong Kong</strong><span style="text-align: left; padding-left: 20px;">I'm excited to return to Jump Trading in Hong Kong as a Quantitative Trader. I expect to rotate across different trading desks, explore different markets and strategies, and learn from experienced traders. I'm particularly drawn to semi-discretionary trading, where solid quantitative research meets market intuition and judgment in live execution - a combination that feels like a natural fit for my interests and strengths.</span>
+    <strong style="min-width: 150px; width: 150px;">[Expected] Sep 2027, Hong Kong</strong><span style="text-align: left; padding-left: 20px;">I'm excited to return to Jump Trading in Hong Kong as a Quantitative Trader. I expect to rotate across different trading desks. I'm particularly drawn to semi-discretionary trading, where solid quantitative research meets market intuition and judgment in live execution.</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">[Expected] Nov 2026, Canada</strong><span style="text-align: left; padding-left: 20px;">I'll travel to Montreal and Quebec City to explore French-speaking Canada, from Montreal's lively food scene and museums to Old Quebec's cobblestone streets and views over the St. Lawrence River. I'm looking forward to slowing down in cosy cafes and experiencing the transition from autumn to winter, with chilly days and perhaps the first snow of the season.</span>
+    <strong style="min-width: 150px; width: 150px;">[Expected] Nov 2026, Canada</strong><span style="text-align: left; padding-left: 20px;">I'll travel to Montreal and Quebec City to explore French-speaking Canada, from Montreal's lively food scene and museums to Old Quebec's cobblestone streets and views over the St. Lawrence River.</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
