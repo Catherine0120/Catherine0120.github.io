@@ -35,7 +35,7 @@ News
 <div style="font-size: 16px; display: flex; flex-direction: column; gap: 10px;">
   <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">Current</strong>
-    <span style="text-align: left; padding-left: 20px;">Master candidate (MFin '27) at Princeton University.
+    <span style="text-align: left; padding-left: 20px;">Master candidate (MFin '27) at Princeton University. I've also been making the most of my holidays to travel around the United States and explore the culture and character of different cities.
     <div style="font-size: 15px; display: flex; flex-direction: column;">
       <div style="display: flex; padding: 3px 0;">
         <strong style="min-width: 150px; width: 150px;">New Jersey</strong><span>Princeton</span>
@@ -53,6 +53,15 @@ News
         <strong style="min-width: 150px; width: 150px;">Connecticut</strong><span>Greenwich</span>
       </div>
       <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">Maryland</strong><span>Baltimore</span>
+      </div>
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">District of Columbia</strong><span>Washington, DC</span>
+      </div>
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">Pennsylvania</strong><span>Philadelphia</span>
+      </div>
+      <div style="display: flex; padding: 3px 0;">
         <strong style="min-width: 150px; width: 150px;">Illinois</strong><span>Chicago</span>
       </div>
       <div style="display: flex; padding: 3px 0;">
@@ -68,6 +77,10 @@ News
 
   <div style="display: flex; justify-content: flex-start;">
     <strong style="min-width: 150px; width: 150px;">[Expected] Nov 2026, Canada</strong><span style="text-align: left; padding-left: 20px;">I'll travel to Montreal and Quebec City to explore French-speaking Canada, from Montreal's lively food scene and museums to Old Quebec's cobblestone streets and views over the St. Lawrence River. I'm looking forward to slowing down in cosy cafes and experiencing the transition from autumn to winter, with chilly days and perhaps the first snow of the season.</span>
+  </div>
+
+  <div style="display: flex; justify-content: flex-start;">
+    <strong style="min-width: 150px; width: 150px;">May-Jun 2026, South Korea</strong><span style="text-align: left; padding-left: 20px;">I travelled to South Korea, visiting Seoul and Busan. I tried a wide variety of Korean food and spent time wandering through Seoul's neighbourhoods, getting a feel for the city's local culture and everyday life.</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
