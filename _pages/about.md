@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 <br />
-Hi! This is the homepage of Shiying (Catherine) Zhang. I'm currently a Master student at **Princeton University** major in Financial Mathematics. I graduated from **Tsinghua University** with double bachelors degree in Engineering and Economics ([Double majors: Computer Science and Technology + Economics and Finance](https://ug.sem.tsinghua.edu.cn/bkjbkxm/jsjyjr.htm)), and during my junior year, I exchanged at **University of Oxford**, fully sponsored by the prestigious [Yinghua Scholarship](https://goglobal.tsinghua.edu.cn/yinghuascholars).
+Hi! This is the homepage of Shiying (Catherine) Zhang. I'm currently a master's student at **Princeton University** studying Financial Mathematics. I graduated from **Tsinghua University** with bachelor's degrees in Engineering and Economics ([Double majors: Computer Science and Technology + Economics and Finance](https://ug.sem.tsinghua.edu.cn/bkjbkxm/jsjyjr.htm)), and during my junior year, I spent an exchange year at the **University of Oxford**, fully funded by the prestigious [Yinghua Scholarship](https://goglobal.tsinghua.edu.cn/yinghuascholars).
 
 As a dual-degree student, I have a deep passion for both majors. My engineering background trains me to build things with clarity and structure, while economics and finance teach me to ask why—revealing the incentives, markets, and human impulses behind each problem. Together, they give me both the tools to create and the intuition to understand.
 
-I'm also energetic and passionate about embracing diverse life experiences. I have lived in Shenzhen (my birthplace), Shanghai (my hometown), Beijing (my undergraduate), Oxford (my exchange year), Hong Kong (my internships) and Princeton (my graduate), and have travelled in many places. My internship experiences span from fundamental equity research to quantitative research and trading.
+I'm also energetic and passionate about embracing diverse life experiences. I have lived in Shenzhen (my birthplace), Shanghai (my hometown), Beijing (my undergraduate studies), Oxford (my exchange year), Hong Kong (my internships) and Princeton (my graduate studies), and have travelled to many places. My internship experiences span fundamental equity research, quantitative research and trading.
 
-I enjoy debating (was awarded best debater in my freshman year), poker (representing Oxford in a UK poker competition), writing (I'm a Wechat official, *The Castle*, account owner and have published more than 100 original articles), travelling (have visited 34 countries / 130+ cities), cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
+I enjoy debating (I was named best debater in my freshman year), poker (I represented Oxford in a UK poker competition), writing (I run the WeChat Official Account *The Castle* and have published more than 100 original articles), travelling (I have visited 34 countries / 130+ cities), cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
 
 
 Academic Achievements
@@ -25,7 +25,7 @@ Academic Achievements
   <li><strong>GPA (at Tsinghua)</strong>: 3.94/4.0 (ranked 1st)</li>
   <li><strong>TOEFL</strong>: 110/120 (R 29, L 29, S 26, W 26), <strong>GRE</strong>: 331/340 (V 161, Q 170, AWA 4), <strong>CET6</strong>: 687/710</li>
   <li><strong>Honors</strong>: Graduate with Honors (Beijing top 5% & Tsinghua top 2% & SEM 1 of 2), YINGHUA Scholarship, National Scholarship (Top 2%), Overall Excellence Scholarship (thrice), Excellent Graduation Thesis (Top 2%), Graduation Commencement Speaker</li>
-  <li><strong>Research Field</strong>: quantitative and fundamental research of secondary market, quantitative trading</li>
+  <li><strong>Research Field</strong>: quantitative and fundamental research in secondary markets, quantitative trading</li>
 </ul>
 
 
@@ -46,7 +46,7 @@ News
 <div class="news-list">
 <div class="news-item">
 <strong class="news-date">Current</strong>
-<div class="news-content">Master candidate (MFin '27) at Princeton University. I've also been making the most of my holidays to travel around the United States and explore the culture and character of different cities.
+<div class="news-content">Master of Finance candidate (MFin '27) at Princeton University. I've also been making the most of my holidays to travel around the United States and explore the culture and character of different cities.
     <div class="news-locations">
 <div class="news-location">
 <strong>New Jersey</strong><span>Princeton</span>
@@ -94,7 +94,7 @@ News
 <strong class="news-date">Jun-Sep 2026, Shanghai</strong><div class="news-content">I interned at Jump Trading as a Quantitative Trading Intern, building an LLM-enabled alternative data pipeline and researching, monetizing, and executing alpha signals from alternative data. I owned end-to-end systematic trading with discretionary execution adjustments. Return offer extended.</div>
 </div>
 <div class="news-item">
-<strong class="news-date">Dec 2025–Jan 2026, South America</strong>
+<strong class="news-date">Dec 2025-Jan 2026, South America</strong>
 <div class="news-content">
     I travelled across South America for 24 days over the Christmas break, visiting five countries and exploring coastal cities, Andean capitals and Patagonia with my boyfriend.
     <div class="news-locations">
@@ -117,10 +117,10 @@ News
 </div>
 </div>
 <div class="news-item">
-<strong class="news-date">Jun-Aug 2025, Hong Kong</strong><div class="news-content">I interned at JPMorgan Chase &amp; Co. as a Summer Analyst in Markets - Research program. My project established a data-driven new approach to analyze attention-oriented products and was published and presented in Apac morning meeting. Return-offer extended.</div>
+<strong class="news-date">Jun-Aug 2025, Hong Kong</strong><div class="news-content">I interned at JPMorgan Chase &amp; Co. as a Summer Analyst in the Markets - Research program. My project developed a new data-driven approach to analyzing attention-oriented products; the work was published and presented at an APAC morning meeting. Return offer extended.</div>
 </div>
 <div class="news-item">
-<strong class="news-date">Jun 2025, Beijing</strong><div class="news-content">I achieved my bachelors degrees in Economics (Economics and Finance) and Engineering (Computer Science and Technology), graduated from Tsinghua University. I was recognized as a <a href="https://mp.weixin.qq.com/s/tAjGae2Jn4GrZWGlEtXS1A" target="_blank">Graduate with Honors</a>, awarded Excellent Graduation Thesis, and selected as an <a href="https://mp.weixin.qq.com/s/n30A5Yt4IcVSAyuy-C227g" target="_blank">SEM Graduation Commencement Speaker</a></div>
+<strong class="news-date">Jun 2025, Beijing</strong><div class="news-content">I graduated from Tsinghua University with bachelor's degrees in Economics (Economics and Finance) and Engineering (Computer Science and Technology). I was named a <a href="https://mp.weixin.qq.com/s/tAjGae2Jn4GrZWGlEtXS1A" target="_blank">Graduate with Honors</a>, received an Excellent Graduation Thesis award, and was selected as an <a href="https://mp.weixin.qq.com/s/n30A5Yt4IcVSAyuy-C227g" target="_blank">SEM Graduation Commencement Speaker</a>.</div>
 </div>
 <div class="news-item">
 <strong class="news-date">Apr-May 2025, Eurasia</strong>
@@ -139,10 +139,10 @@ News
 </div>
 </div>
 <div class="news-item">
-<strong class="news-date">Apr 2025, Datong</strong><div class="news-content">I travelled in Datong, Shanxi Province, for 4 days with my friends at Tsinghua, visiting the Yungang Grottoes and the Hanging Monastery during Qingming Festival.</div>
+<strong class="news-date">Apr 2025, Datong</strong><div class="news-content">I travelled to Datong, Shanxi Province, for 4 days with my friends at Tsinghua, visiting the Yungang Grottoes and the Hanging Monastery during Qingming Festival.</div>
 </div>
 <div class="news-item">
-<strong class="news-date">Feb-May 2025, Beijing</strong><div class="news-content">I interned at Chow Tai Fook Entreprise (Family Office) as Quantitative Researcher, carried out LLM's application in news factor extraction in stock price prediction, and developed an AI-based news reviewer app for stock price analysis.</div>
+<strong class="news-date">Feb-May 2025, Beijing</strong><div class="news-content">I interned at Chow Tai Fook Enterprises (Family Office) as a Quantitative Researcher, applied LLMs to extract news factors for stock price prediction, and developed an AI-based news reviewer app for stock price analysis.</div>
 </div>
 <div class="news-item">
 <strong class="news-date">Jan 2025, Arabian Peninsula</strong>
@@ -158,22 +158,22 @@ News
 </div>
 </div>
 <div class="news-item">
-<strong class="news-date">Oct 2024, Beijing</strong><div class="news-content">Awarded National Scholarship (by Ministry of Education).</div>
+<strong class="news-date">Oct 2024, Beijing</strong><div class="news-content">Awarded the National Scholarship (by the Ministry of Education).</div>
 </div>
 <div class="news-item">
 <strong class="news-date">Oct 2024, Hokkaido</strong><div class="news-content">I travelled in Hokkaido during the National Day holiday (went to Asahikawa, Mt. Kurogatake, Otaru and Sapporo with my friend for 5 days).</div>
 </div>
 <div class="news-item">
-<strong class="news-date">Jun-Aug 2024, Hong Kong</strong><div class="news-content">I interned at Goldman Sachs (Hong Kong) at Global Investment Research (GIR) division, responsible of carrying out equity research on the consumer sector.</div>
+<strong class="news-date">Jun-Aug 2024, Hong Kong</strong><div class="news-content">I interned at Goldman Sachs (Hong Kong) in the Global Investment Research (GIR) division, where I was responsible for carrying out equity research on the consumer sector.</div>
 </div>
 <div class="news-item">
-<strong class="news-date">Sep 2023 - Jun 2024, Oxford</strong>
+<strong class="news-date">Sep 2023-Jun 2024, Oxford</strong>
 <div class="news-content">
-    I exchanged at University of Oxford under YINGHUA scholarship, taking courses in Economics and Computer Science, travelling in 51 cities / 16 countries for 76 days, and gradually building up my knowledge of the world. You can find my travel diary 
-    <a href="https://mp.weixin.qq.com/s/DxDKDCmPfA_VnEVI6iL7pA" target="_blank">here</a> and through WeChat Official Account (The Castle). 
-    I was also actively attending formals at different colleges. I wrote a summary of my experience in formals at 31 colleges 
-    <a href="https://mp.weixin.qq.com/s/qjaSvpZxt7OkDRKebd7RlA" target="_blank">here</a>. 
-    You may find my expenditure details for the whole year exchange at 
+    I spent an exchange year at the University of Oxford on a YINGHUA scholarship, taking courses in Economics and Computer Science, travelling to 51 cities / 16 countries over 76 days, and gradually building up my knowledge of the world. You can find my travel diary
+    <a href="https://mp.weixin.qq.com/s/DxDKDCmPfA_VnEVI6iL7pA" target="_blank">here</a> and on my WeChat Official Account (The Castle).
+    I also actively attended formals at different colleges. I wrote a summary of my experiences attending formals at 31 colleges
+    <a href="https://mp.weixin.qq.com/s/qjaSvpZxt7OkDRKebd7RlA" target="_blank">here</a>.
+    You may find my expenditure details for the full exchange year on
     <a href="http://xhslink.com/A/jVKlgw" target="_blank">Xiao Hong Shu</a>.
     <div class="news-locations">
 <div class="news-location">
@@ -222,22 +222,22 @@ News
 <strong>Hungary</strong><span>Budapest</span>
 </div>
 <div class="news-location">
-<strong>Morooco</strong><span>Fes, Ifrane, Merzouga, Ouarzazate, Marrakech, Casablanca</span>
+<strong>Morocco</strong><span>Fes, Ifrane, Merzouga, Ouarzazate, Marrakech, Casablanca</span>
 </div>
 </div>
 </div>
 </div>
 <div class="news-item">
-<strong class="news-date">Aug-Sep 2023, Beijing</strong><div class="news-content">I interned at Springs Capital (淡水泉), the top fundamental-strategy based hedge fund, responsible for research in the semiconductor industry.</div>
+<strong class="news-date">Aug-Sep 2023, Beijing</strong><div class="news-content">I interned at Springs Capital (淡水泉), the top hedge fund focused on fundamental strategies, where I was responsible for research in the semiconductor industry.</div>
 </div>
 <div class="news-item">
 <strong class="news-date">Aug 2023, Qinhuangdao</strong><div class="news-content">I took a short trip with my family to Aranya, a beautiful seaside resort in Qinhuangdao, to relax and enjoy the sea breeze.</div>
 </div>
 <div class="news-item">
-<strong class="news-date">Aug 2023, Seattle</strong><div class="news-content">I went to Seattle, the city of Microsoft, Amazon and Starbucks, for two weeks, exploring the American culture and investigate into these IT giants. I also visited University of Washington there.</div>
+<strong class="news-date">Aug 2023, Seattle</strong><div class="news-content">I went to Seattle, home to Microsoft, Amazon and Starbucks, for two weeks, exploring American culture and learning about these IT giants. I also visited the University of Washington there.</div>
 </div>
 <div class="news-item">
-<strong class="news-date">Jul 2023, Shanghai</strong><div class="news-content">I interned at X-Asset Management (信弘天禾), a 10 billion RMB AUM quant hedge fund, responsible for constructing optimal stock portfolio from factors.</div>
+<strong class="news-date">Jul 2023, Shanghai</strong><div class="news-content">I interned at X-Asset Management (信弘天禾), a quant hedge fund with 10 billion RMB in AUM, where I was responsible for constructing optimal stock portfolios from factors.</div>
 </div>
 <div class="news-item">
 <strong class="news-date">Jun 2021, Shanghai</strong><div class="news-content">Graduated from Shanghai High School with distinction.</div>
@@ -251,7 +251,7 @@ News
 Contact
 ------
 <p style="margin-bottom: 12px;"><strong>Email</strong>: catherinezhang0120@gmail.com | sz9883@princeton.edu</p>
-<p style="margin-bottom: 12px;"><strong>Wechat</strong>: Catherine_zsy0120</p>
+<p style="margin-bottom: 12px;"><strong>WeChat</strong>: Catherine_zsy0120</p>
 <p style="margin-bottom: 12px;"><strong>Instagram</strong>: catherinezhang0120</p>
 <p style="margin-bottom: 12px;"><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/catherine-zhang-936499272/" target="_blank">Shiying (Catherine) Zhang</a></p>
 
