@@ -21,6 +21,7 @@ I enjoy debating (was awarded best debater in my freshman year), poker (represen
 Academic Achievements
 -----
 <ul style="line-height: 1.5;">
+  <li><strong>GPA (at Princeton)</strong>: 3.97/4.0</li>
   <li><strong>GPA (at Tsinghua)</strong>: 3.94/4.0 (ranked 1st)</li>
   <li><strong>TOEFL</strong>: 110/120 (R 29, L 29, S 26, W 26), <strong>GRE</strong>: 331/340 (V 161, Q 170, AWA 4), <strong>CET6</strong>: 687/710</li>
   <li><strong>Honors</strong>: Graduate with Honors (Beijing top 5% & Tsinghua top 2% & SEM 1 of 2), YINGHUA Scholarship, National Scholarship (Top 2%), Overall Excellence Scholarship (thrice), Excellent Graduation Thesis (Top 2%), Graduation Commencement Speaker</li>
@@ -51,18 +52,32 @@ News
       <div style="display: flex; padding: 3px 0;">
         <strong style="min-width: 150px; width: 150px;">Connecticut</strong><span>Greenwich</span>
       </div>
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">Illinois</strong><span>Chicago</span>
+      </div>
+      <div style="display: flex; padding: 3px 0;">
+        <strong style="min-width: 150px; width: 150px;">Puerto Rico</strong>
+      </div>
     </div>
     </span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-    <strong style="min-width: 150px; width: 150px;">[Expected] Jun-Aug 2026, Shanghai</strong><span style="text-align: left; padding-left: 20px;">I'll join Jump Trading during summer as a quantitative trading intern.</span>
+    <strong style="min-width: 150px; width: 150px;">[Expected] Sep 2027, Hong Kong</strong><span style="text-align: left; padding-left: 20px;">I'll join Jump Trading as a Quantitative Trader.</span>
   </div>
 
   <div style="display: flex; justify-content: flex-start;">
-  <strong style="min-width: 150px; width: 150px;">[Expected] Dec 2025–Jan 2026, South America</strong>
+    <strong style="min-width: 150px; width: 150px;">[Expected] Nov 2026, Canada</strong><span style="text-align: left; padding-left: 20px;">I'll travel to Montreal and Quebec City.</span>
+  </div>
+
+  <div style="display: flex; justify-content: flex-start;">
+    <strong style="min-width: 150px; width: 150px;">Jun-Sep 2026, Shanghai</strong><span style="text-align: left; padding-left: 20px;">I interned at Jump Trading as a Quantitative Trading Intern, building an LLM-enabled alternative data pipeline and researching, monetizing, and executing alpha signals from alternative data. I owned end-to-end systematic trading with discretionary execution adjustments. Return offer extended.</span>
+  </div>
+
+  <div style="display: flex; justify-content: flex-start;">
+  <strong style="min-width: 150px; width: 150px;">Dec 2025–Jan 2026, South America</strong>
   <span style="text-align: left; padding-left: 20px;">
-    I'll travel across South America for 24 days over the Christmas break, visiting five countries and exploring coastal cities, Andean capitals and Patagonia with my boyfriend.
+    I travelled across South America for 24 days over the Christmas break, visiting five countries and exploring coastal cities, Andean capitals and Patagonia with my boyfriend.
     <div style="font-size: 15px; display: flex; flex-direction: column; margin-top: 5px;">
       <div style="display: flex; padding: 3px 0;">
         <strong style="min-width: 150px; width: 150px;">Peru</strong><span>Lima</span>
@@ -235,8 +250,8 @@ News
 
 Contact
 ------
-<p style="margin-bottom: 12px;"><strong>Email</strong>: catherinezhang0120@gmail.com | sz9883@princeton.edu | shiying-21@mails.tsinghua.edu.cn</p>
+<p style="margin-bottom: 12px;"><strong>Email</strong>: catherinezhang0120@gmail.com | sz9883@princeton.edu</p>
 <p style="margin-bottom: 12px;"><strong>Wechat</strong>: Catherine_zsy0120</p>
 <p style="margin-bottom: 12px;"><strong>Instagram</strong>: catherinezhang0120</p>
-<p style="margin-bottom: 12px;"><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/shiying-zhang-936499272" target="_blank">Shiying (Catherine) Zhang</a></p>
+<p style="margin-bottom: 12px;"><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/catherine-zhang-936499272/" target="_blank">Shiying (Catherine) Zhang</a></p>
 

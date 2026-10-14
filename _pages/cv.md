@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/Catherine0120/notes/image-20251129124348366.png" />
+<img src="{{ '/assets/cv-2026.png' | relative_url }}" alt="CV of Shiying (Catherine) Zhang, updated October 2026" style="width: 100%; height: auto;" />
 
 
 <!-- You can also download my CV here:
