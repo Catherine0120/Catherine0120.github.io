@@ -37,6 +37,40 @@
   min-width: 0;
 }
 
+.news-details {
+  margin-top: 0.4rem;
+}
+
+.news-details > summary,
+.news-archive > summary {
+  cursor: pointer;
+  padding: 0.25rem 0;
+}
+
+.news-details > summary {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.news-archive {
+  border-top: 1px solid #eee;
+  padding-top: 0.75rem;
+}
+
+.news-archive > summary {
+  font-weight: 600;
+}
+
+.news-archive > .news-list {
+  margin-top: 1rem;
+}
+
+.news-details > summary:focus-visible,
+.news-archive > summary:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+
 @media (max-width: 600px) {
   .news-item {
     grid-template-columns: minmax(0, 1fr);

@@ -47,7 +47,7 @@ News
 <div class="news-item">
 <strong class="news-date">Current</strong>
 <div class="news-content">Master of Finance candidate (MFin '27) at Princeton University. I've also been making the most of my holidays to travel around the United States and explore the culture and character of different cities.
-    <div class="news-locations">
+    <details class="news-details"><summary>Cities and destinations visited in the US</summary><div class="news-locations">
 <div class="news-location">
 <strong>New Jersey</strong><span>Princeton</span>
 </div>
@@ -78,7 +78,7 @@ News
 <div class="news-location">
 <strong>Puerto Rico</strong>
 </div>
-</div>
+</div></details>
 </div>
 </div>
 <div class="news-item">
@@ -88,16 +88,16 @@ News
 <strong class="news-date">[Expected] Nov 2026, Canada</strong><div class="news-content">I'll travel to Montreal and Quebec City to explore French-speaking Canada, from Montreal's lively food scene and museums to Old Quebec's cobblestone streets and views over the St. Lawrence River.</div>
 </div>
 <div class="news-item">
-<strong class="news-date">May-Jun 2026, South Korea</strong><div class="news-content">I travelled to South Korea, visiting Seoul and Busan. I tried a wide variety of Korean food and spent time wandering through Seoul's neighbourhoods, getting a feel for the city's local culture and everyday life.</div>
+<strong class="news-date">Jun-Sep 2026, Shanghai</strong><div class="news-content">I interned at Jump Trading as a Quantitative Trading Intern, building an LLM-enabled alternative data pipeline and researching, monetizing, and executing alpha signals from alternative data. I owned end-to-end systematic trading with discretionary execution adjustments. Return offer extended.</div>
 </div>
 <div class="news-item">
-<strong class="news-date">Jun-Sep 2026, Shanghai</strong><div class="news-content">I interned at Jump Trading as a Quantitative Trading Intern, building an LLM-enabled alternative data pipeline and researching, monetizing, and executing alpha signals from alternative data. I owned end-to-end systematic trading with discretionary execution adjustments. Return offer extended.</div>
+<strong class="news-date">May-Jun 2026, South Korea</strong><div class="news-content">I travelled to South Korea, visiting Seoul and Busan. I tried a wide variety of Korean food and spent time wandering through Seoul's neighbourhoods, getting a feel for the city's local culture and everyday life.</div>
 </div>
 <div class="news-item">
 <strong class="news-date">Dec 2025-Jan 2026, South America</strong>
 <div class="news-content">
     I travelled across South America for 24 days over the Christmas break, visiting five countries and exploring coastal cities, Andean capitals and Patagonia with my boyfriend.
-    <div class="news-locations">
+    <details class="news-details"><summary>Cities visited in South America</summary><div class="news-locations">
 <div class="news-location">
 <strong>Peru</strong><span>Lima</span>
 </div>
@@ -113,7 +113,7 @@ News
 <div class="news-location">
 <strong>Colombia</strong><span>Bogotá</span>
 </div>
-</div>
+</div></details>
 </div>
 </div>
 <div class="news-item">
@@ -122,10 +122,11 @@ News
 <div class="news-item">
 <strong class="news-date">Jun 2025, Beijing</strong><div class="news-content">I graduated from Tsinghua University with bachelor's degrees in Economics (Economics and Finance) and Engineering (Computer Science and Technology). I was named a <a href="https://mp.weixin.qq.com/s/tAjGae2Jn4GrZWGlEtXS1A" target="_blank">Graduate with Honors</a>, received an Excellent Graduation Thesis award, and was selected as an <a href="https://mp.weixin.qq.com/s/n30A5Yt4IcVSAyuy-C227g" target="_blank">SEM Graduation Commencement Speaker</a>.</div>
 </div>
+<details class="news-archive"><summary>Earlier news (2025 and before)</summary><div class="news-list">
 <div class="news-item">
 <strong class="news-date">Apr-May 2025, Eurasia</strong>
 <div class="news-content">I travelled in Georgia, Turkey and Azerbaijan for 11 days with my friends at Tsinghua, experiencing Caucasian culture and Turkish culture during the Labour Day holiday.
-    <div class="news-locations">
+    <details class="news-details"><summary>Cities visited in Georgia, Turkey and Azerbaijan</summary><div class="news-locations">
 <div class="news-location">
 <strong>Georgia</strong><span>Tbilisi, Sighnaghi, Kazbegi</span>
 </div>
@@ -135,7 +136,7 @@ News
 <div class="news-location">
 <strong>Azerbaijan</strong><span>Baku</span>
 </div>
-</div>
+</div></details>
 </div>
 </div>
 <div class="news-item">
@@ -147,14 +148,14 @@ News
 <div class="news-item">
 <strong class="news-date">Jan 2025, Arabian Peninsula</strong>
 <div class="news-content">I travelled in the Arabian Peninsula for 12 days with my friends at Tsinghua, experiencing Islamic culture and the modernity of the cities.
-    <div class="news-locations">
+    <details class="news-details"><summary>Cities visited in the Arabian Peninsula</summary><div class="news-locations">
 <div class="news-location">
 <strong>UAE</strong><span>Dubai, Abu Dhabi</span>
 </div>
 <div class="news-location">
 <strong>Qatar</strong><span>Doha</span>
 </div>
-</div>
+</div></details>
 </div>
 </div>
 <div class="news-item">
@@ -175,7 +176,7 @@ News
     <a href="https://mp.weixin.qq.com/s/qjaSvpZxt7OkDRKebd7RlA" target="_blank">here</a>.
     You may find my expenditure details for the full exchange year on
     <a href="http://xhslink.com/A/jVKlgw" target="_blank">Xiao Hong Shu</a>.
-    <div class="news-locations">
+    <details class="news-details"><summary>Cities visited during my Oxford exchange</summary><div class="news-locations">
 <div class="news-location">
 <strong>UK</strong><span>England (London, Oxford, Cambridge, Brighton), Scotland (Glasgow, Oban, Portree/Skye, Inverness, Edinburgh)</span>
 </div>
@@ -224,7 +225,7 @@ News
 <div class="news-location">
 <strong>Morocco</strong><span>Fes, Ifrane, Merzouga, Ouarzazate, Marrakech, Casablanca</span>
 </div>
-</div>
+</div></details>
 </div>
 </div>
 <div class="news-item">
@@ -245,6 +246,7 @@ News
 <div class="news-item">
 <strong class="news-date">Jun 2018, Shanghai</strong><div class="news-content">Graduated from Huayu Middle School with distinction.</div>
 </div>
+</div></details>
 </div>
 
 
