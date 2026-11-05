@@ -32,8 +32,8 @@ Academic Achievements
 News
 -----
 
-<section class="news-section" aria-labelledby="career-education">
-<h3 id="career-education" class="news-section-title">Career &amp; Education</h3>
+<section aria-labelledby="career-education" class="news-section">
+<h3 class="news-section-title" id="career-education">Career &amp; Education</h3>
 <div class="news-list">
 <div class="news-item">
 <strong class="news-date">Current</strong>
@@ -51,8 +51,7 @@ News
 <div class="news-item">
 <strong class="news-date">Jun 2025, Beijing</strong><div class="news-content">I graduated from Tsinghua University with bachelor's degrees in Economics (Economics and Finance) and Engineering (Computer Science and Technology). I was named a <a href="https://mp.weixin.qq.com/s/tAjGae2Jn4GrZWGlEtXS1A" target="_blank">Graduate with Honors</a>, received an Excellent Graduation Thesis award, and was selected as an <a href="https://mp.weixin.qq.com/s/n30A5Yt4IcVSAyuy-C227g" target="_blank">SEM Graduation Commencement Speaker</a>.</div>
 </div>
-<details class="news-archive"><summary>Earlier career &amp; education (2025 and before)</summary>
-<div class="news-list">
+
 <div class="news-item">
 <strong class="news-date">Feb-May 2025, Beijing</strong><div class="news-content">I interned at Chow Tai Fook Enterprises (Family Office) as a Quantitative Researcher, applied LLMs to extract news factors for stock price prediction, and developed an AI-based news reviewer app for stock price analysis.</div>
 </div>
@@ -78,11 +77,11 @@ News
 <div class="news-item">
 <strong class="news-date">Jun 2018, Shanghai</strong><div class="news-content">Graduated from Huayu Middle School with distinction.</div>
 </div>
-</div></details>
+
 </div>
 </section>
-<section class="news-section" aria-labelledby="travel">
-<h3 id="travel" class="news-section-title">Travel</h3>
+<details aria-labelledby="travel" class="news-section news-travel">
+<summary class="news-section-title"><h3 id="travel">Travel</h3></summary>
 <div class="news-list">
 <div class="news-item"><strong class="news-date">Current</strong><div class="news-content">I've been making the most of my holidays to travel around the United States and explore the culture and character of different cities.<details class="news-details"><summary>Cities and destinations visited in the US</summary><div class="news-locations">
 <div class="news-location">
@@ -145,8 +144,7 @@ News
 </div></details>
 </div>
 </div>
-<details class="news-archive"><summary>Earlier travel (2025 and before)</summary>
-<div class="news-list">
+
 <div class="news-item">
 <strong class="news-date">Apr-May 2025, Eurasia</strong>
 <div class="news-content">I travelled in Georgia, Turkey and Azerbaijan for 11 days with my friends at Tsinghua, experiencing Caucasian culture and Turkish culture during the Labour Day holiday.
@@ -249,9 +247,9 @@ News
 <div class="news-item">
 <strong class="news-date">Aug 2023, Seattle</strong><div class="news-content">I went to Seattle, home to Microsoft, Amazon and Starbucks, for two weeks, exploring American culture and learning about these IT giants. I also visited the University of Washington there.</div>
 </div>
-</div></details>
+
 </div>
-</section>
+</details>
 
 
 Contact

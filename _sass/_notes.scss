@@ -55,8 +55,14 @@
   padding-left: 1.3rem;
 }
 
-.notes-books > li {
+.page__content .notes-books > li {
   margin-bottom: 0.8rem;
+  font-size: 1em;
+}
+
+.page__content .notes-books .note-heading,
+.page__content .notes-books p {
+  font-size: 1em;
 }
 
 @media (max-width: 600px) {
