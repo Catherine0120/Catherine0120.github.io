@@ -1,0 +1,66 @@
+/* Keep course bullets, descriptions, and PDF links grouped together. */
+.page__content .notes-courses {
+  padding-left: 1.4rem;
+}
+
+.notes-courses > .notes-course {
+  margin-bottom: 1.5rem;
+  padding-left: 0.25rem;
+}
+
+.page__content .note-heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.65rem;
+  margin: 0 0 0.5rem;
+}
+
+.note-title {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.note-resources {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.3rem 0.75rem;
+  font-size: 0.8em;
+  font-weight: normal;
+}
+
+.page__content .note-pdf {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.15rem 0.1rem;
+  text-decoration: none;
+}
+
+.note-pdf:hover span {
+  text-decoration: underline;
+}
+
+.note-pdf:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
+.notes-course p {
+  margin: 0 0 0.75rem;
+}
+
+.page__content .notes-books {
+  padding-left: 1.3rem;
+}
+
+.notes-books > li {
+  margin-bottom: 0.8rem;
+}
+
+@media (max-width: 600px) {
+  .page__content .notes-courses {
+    padding-left: 1.1rem;
+  }
+}

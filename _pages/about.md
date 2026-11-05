@@ -15,7 +15,7 @@ As a dual-degree student, I have a deep passion for both majors. My engineering 
 
 I'm also energetic and passionate about embracing diverse life experiences. I have lived in Shenzhen (my birthplace), Shanghai (my hometown), Beijing (my undergraduate studies), Oxford (my exchange year), Hong Kong (my internships) and Princeton (my graduate studies), and have travelled to many places. My internship experiences span fundamental equity research, quantitative research and trading.
 
-I enjoy debating (I was named best debater in my freshman year), poker (I represented Oxford in a UK poker competition), writing (I run the WeChat Official Account *The Castle* and have published more than 100 original articles), travelling (I have visited 34 countries / 130+ cities), cricket, squash, skiing, and playing the piano (ABRSM Grade 8).
+I enjoy debating (I was named best debater in my freshman year), competitive poker (I represented Oxford in a UK poker competition), writing (I run the WeChat Official Account *The Castle* and have published more than 100 original articles), travelling (I have visited 34 countries / 130+ cities), and playing the piano (ABRSM Grade 8).
 
 
 Academic Achievements
@@ -32,13 +32,61 @@ Academic Achievements
 News
 -----
 
+<section class="news-section" aria-labelledby="career-education">
+<h3 id="career-education" class="news-section-title">Career &amp; Education</h3>
 <div class="news-list">
 <div class="news-item">
 <strong class="news-date">Current</strong>
-<div class="news-content">Master of Finance candidate (MFin '27) at Princeton University. I've also been making the most of my holidays to travel around the United States and explore the culture and character of different cities.
-    <details class="news-details"><summary>Cities and destinations visited in the US</summary><div class="news-locations">
+<div class="news-content">Master of Finance candidate (MFin '27) at Princeton University.</div>
+</div>
+<div class="news-item">
+<strong class="news-date">[Expected] Sep 2027, Hong Kong</strong><div class="news-content">I'm excited to return to Jump Trading in Hong Kong as a Quantitative Trader. I expect to rotate across different trading desks. I look forward to combining solid quantitative research with market intuition.</div>
+</div>
+<div class="news-item">
+<strong class="news-date">Jun-Sep 2026, Shanghai</strong><div class="news-content">I interned at Jump Trading as a Quantitative Trading Intern, building an LLM-enabled alternative data pipeline and researching, monetizing, and executing alpha signals from alternative data. I owned end-to-end systematic trading with discretionary execution adjustments. Return offer extended.</div>
+</div>
+<div class="news-item">
+<strong class="news-date">Jun-Aug 2025, Hong Kong</strong><div class="news-content">I interned at JPMorgan Chase &amp; Co. as a Summer Analyst in the Markets - Research program. My project developed a new data-driven approach to analyzing attention-oriented products; the work was published and presented at an APAC morning meeting. Return offer extended.</div>
+</div>
+<div class="news-item">
+<strong class="news-date">Jun 2025, Beijing</strong><div class="news-content">I graduated from Tsinghua University with bachelor's degrees in Economics (Economics and Finance) and Engineering (Computer Science and Technology). I was named a <a href="https://mp.weixin.qq.com/s/tAjGae2Jn4GrZWGlEtXS1A" target="_blank">Graduate with Honors</a>, received an Excellent Graduation Thesis award, and was selected as an <a href="https://mp.weixin.qq.com/s/n30A5Yt4IcVSAyuy-C227g" target="_blank">SEM Graduation Commencement Speaker</a>.</div>
+</div>
+<details class="news-archive"><summary>Earlier career &amp; education (2025 and before)</summary>
+<div class="news-list">
+<div class="news-item">
+<strong class="news-date">Feb-May 2025, Beijing</strong><div class="news-content">I interned at Chow Tai Fook Enterprises (Family Office) as a Quantitative Researcher, applied LLMs to extract news factors for stock price prediction, and developed an AI-based news reviewer app for stock price analysis.</div>
+</div>
+<div class="news-item">
+<strong class="news-date">Oct 2024, Beijing</strong><div class="news-content">Awarded the National Scholarship (by the Ministry of Education).</div>
+</div>
+<div class="news-item">
+<strong class="news-date">Jun-Aug 2024, Hong Kong</strong><div class="news-content">I interned at Goldman Sachs (Hong Kong) in the Global Investment Research (GIR) division, where I was responsible for carrying out equity research on the consumer sector.</div>
+</div>
+<div class="news-item">
+<strong class="news-date">Sep 2023-Jun 2024, Oxford</strong>
+<div class="news-content">I spent an exchange year at the University of Oxford on a YINGHUA scholarship, taking courses in Economics and Computer Science.</div>
+</div>
+<div class="news-item">
+<strong class="news-date">Aug-Sep 2023, Beijing</strong><div class="news-content">I interned at Springs Capital (淡水泉), the top hedge fund focused on fundamental strategies, where I was responsible for research in the semiconductor industry.</div>
+</div>
+<div class="news-item">
+<strong class="news-date">Jul 2023, Shanghai</strong><div class="news-content">I interned at X-Asset Management (信弘天禾), a quant hedge fund with 10 billion RMB in AUM, where I was responsible for constructing optimal stock portfolios from factors.</div>
+</div>
+<div class="news-item">
+<strong class="news-date">Jun 2021, Shanghai</strong><div class="news-content">Graduated from Shanghai High School with distinction.</div>
+</div>
+<div class="news-item">
+<strong class="news-date">Jun 2018, Shanghai</strong><div class="news-content">Graduated from Huayu Middle School with distinction.</div>
+</div>
+</div></details>
+</div>
+</section>
+<section class="news-section" aria-labelledby="travel">
+<h3 id="travel" class="news-section-title">Travel</h3>
+<div class="news-list">
+<div class="news-item"><strong class="news-date">Current</strong><div class="news-content">I've been making the most of my holidays to travel around the United States and explore the culture and character of different cities.<details class="news-details"><summary>Cities and destinations visited in the US</summary><div class="news-locations">
 <div class="news-location">
-<strong>New Jersey</strong><span>Princeton</span>
+<strong>New Jersey</strong><span>Princeton, Atlantic City, Trenton</span>
 </div>
 <div class="news-location">
 <strong>Florida</strong><span>Miami</span>
@@ -67,17 +115,9 @@ News
 <div class="news-location">
 <strong>Puerto Rico</strong>
 </div>
-</div></details>
-</div>
-</div>
-<div class="news-item">
-<strong class="news-date">[Expected] Sep 2027, Hong Kong</strong><div class="news-content">I'm excited to return to Jump Trading in Hong Kong as a Quantitative Trader. I expect to rotate across different trading desks. I look forward to combining solid quantitative research with market intuition.</div>
-</div>
+</div></details></div></div>
 <div class="news-item">
 <strong class="news-date">[Expected] Nov 2026, Canada</strong><div class="news-content">I'll travel to Montreal and Quebec City to explore French-speaking Canada, from Montreal's lively food scene and museums to Old Quebec's cobblestone streets and views over the St. Lawrence River.</div>
-</div>
-<div class="news-item">
-<strong class="news-date">Jun-Sep 2026, Shanghai</strong><div class="news-content">I interned at Jump Trading as a Quantitative Trading Intern, building an LLM-enabled alternative data pipeline and researching, monetizing, and executing alpha signals from alternative data. I owned end-to-end systematic trading with discretionary execution adjustments. Return offer extended.</div>
 </div>
 <div class="news-item">
 <strong class="news-date">May-Jun 2026, South Korea</strong><div class="news-content">I travelled to South Korea, visiting Seoul and Busan. I tried a wide variety of Korean food and spent time wandering through Seoul's neighbourhoods, getting a feel for the city's local culture and everyday life.</div>
@@ -105,13 +145,8 @@ News
 </div></details>
 </div>
 </div>
-<div class="news-item">
-<strong class="news-date">Jun-Aug 2025, Hong Kong</strong><div class="news-content">I interned at JPMorgan Chase &amp; Co. as a Summer Analyst in the Markets - Research program. My project developed a new data-driven approach to analyzing attention-oriented products; the work was published and presented at an APAC morning meeting. Return offer extended.</div>
-</div>
-<div class="news-item">
-<strong class="news-date">Jun 2025, Beijing</strong><div class="news-content">I graduated from Tsinghua University with bachelor's degrees in Economics (Economics and Finance) and Engineering (Computer Science and Technology). I was named a <a href="https://mp.weixin.qq.com/s/tAjGae2Jn4GrZWGlEtXS1A" target="_blank">Graduate with Honors</a>, received an Excellent Graduation Thesis award, and was selected as an <a href="https://mp.weixin.qq.com/s/n30A5Yt4IcVSAyuy-C227g" target="_blank">SEM Graduation Commencement Speaker</a>.</div>
-</div>
-<details class="news-archive"><summary>Earlier news (2025 and before)</summary><div class="news-list">
+<details class="news-archive"><summary>Earlier travel (2025 and before)</summary>
+<div class="news-list">
 <div class="news-item">
 <strong class="news-date">Apr-May 2025, Eurasia</strong>
 <div class="news-content">I travelled in Georgia, Turkey and Azerbaijan for 11 days with my friends at Tsinghua, experiencing Caucasian culture and Turkish culture during the Labour Day holiday.
@@ -132,9 +167,6 @@ News
 <strong class="news-date">Apr 2025, Datong</strong><div class="news-content">I travelled to Datong, Shanxi Province, for 4 days with my friends at Tsinghua, visiting the Yungang Grottoes and the Hanging Monastery during Qingming Festival.</div>
 </div>
 <div class="news-item">
-<strong class="news-date">Feb-May 2025, Beijing</strong><div class="news-content">I interned at Chow Tai Fook Enterprises (Family Office) as a Quantitative Researcher, applied LLMs to extract news factors for stock price prediction, and developed an AI-based news reviewer app for stock price analysis.</div>
-</div>
-<div class="news-item">
 <strong class="news-date">Jan 2025, Arabian Peninsula</strong>
 <div class="news-content">I travelled in the Arabian Peninsula for 12 days with my friends at Tsinghua, experiencing Islamic culture and the modernity of the cities.
     <details class="news-details"><summary>Cities visited in the Arabian Peninsula</summary><div class="news-locations">
@@ -148,18 +180,12 @@ News
 </div>
 </div>
 <div class="news-item">
-<strong class="news-date">Oct 2024, Beijing</strong><div class="news-content">Awarded the National Scholarship (by the Ministry of Education).</div>
-</div>
-<div class="news-item">
 <strong class="news-date">Oct 2024, Hokkaido</strong><div class="news-content">I travelled in Hokkaido during the National Day holiday (went to Asahikawa, Mt. Kurogatake, Otaru and Sapporo with my friend for 5 days).</div>
-</div>
-<div class="news-item">
-<strong class="news-date">Jun-Aug 2024, Hong Kong</strong><div class="news-content">I interned at Goldman Sachs (Hong Kong) in the Global Investment Research (GIR) division, where I was responsible for carrying out equity research on the consumer sector.</div>
 </div>
 <div class="news-item">
 <strong class="news-date">Sep 2023-Jun 2024, Oxford</strong>
 <div class="news-content">
-    I spent an exchange year at the University of Oxford on a YINGHUA scholarship, taking courses in Economics and Computer Science, travelling to 51 cities / 16 countries over 76 days, and gradually building up my knowledge of the world. You can find my travel diary
+    During my Oxford exchange year, I travelled to 51 cities / 16 countries over 76 days, gradually building up my knowledge of the world. You can find my travel diary
     <a href="https://mp.weixin.qq.com/s/DxDKDCmPfA_VnEVI6iL7pA" target="_blank">here</a> and on my WeChat Official Account (The Castle).
     I also actively attended formals at different colleges. I wrote a summary of my experiences attending formals at 31 colleges
     <a href="https://mp.weixin.qq.com/s/qjaSvpZxt7OkDRKebd7RlA" target="_blank">here</a>.
@@ -218,25 +244,14 @@ News
 </div>
 </div>
 <div class="news-item">
-<strong class="news-date">Aug-Sep 2023, Beijing</strong><div class="news-content">I interned at Springs Capital (淡水泉), the top hedge fund focused on fundamental strategies, where I was responsible for research in the semiconductor industry.</div>
-</div>
-<div class="news-item">
 <strong class="news-date">Aug 2023, Qinhuangdao</strong><div class="news-content">I took a short trip with my family to Aranya, a beautiful seaside resort in Qinhuangdao, to relax and enjoy the sea breeze.</div>
 </div>
 <div class="news-item">
 <strong class="news-date">Aug 2023, Seattle</strong><div class="news-content">I went to Seattle, home to Microsoft, Amazon and Starbucks, for two weeks, exploring American culture and learning about these IT giants. I also visited the University of Washington there.</div>
 </div>
-<div class="news-item">
-<strong class="news-date">Jul 2023, Shanghai</strong><div class="news-content">I interned at X-Asset Management (信弘天禾), a quant hedge fund with 10 billion RMB in AUM, where I was responsible for constructing optimal stock portfolios from factors.</div>
-</div>
-<div class="news-item">
-<strong class="news-date">Jun 2021, Shanghai</strong><div class="news-content">Graduated from Shanghai High School with distinction.</div>
-</div>
-<div class="news-item">
-<strong class="news-date">Jun 2018, Shanghai</strong><div class="news-content">Graduated from Huayu Middle School with distinction.</div>
-</div>
 </div></details>
 </div>
+</section>
 
 
 Contact
