@@ -1,3 +1,6 @@
-<!-- start custom analytics snippet -->
-
-<!-- end custom analytics snippet -->
+{% assign umami_website_id = site.analytics.umami.website_id | default: "" | strip %}
+{% assign umami_script_url = site.analytics.umami.script_url | default: "" | strip %}
+{% assign umami_domains = site.analytics.umami.domains | default: "" | strip %}
+{% if umami_website_id != "" and umami_script_url != "" %}
+<script defer src="{{ umami_script_url | escape }}" data-website-id="{{ umami_website_id | escape }}"{% if umami_domains != "" %} data-domains="{{ umami_domains | escape }}"{% endif %}></script>
+{% endif %}

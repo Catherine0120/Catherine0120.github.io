@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2026-11-05
 ---
 
 {% include base_path %}
@@ -15,16 +15,7 @@ First and foremost, I will never share your email address or any other personal 
 
 ### Log Files
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
-
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
+The hosting provider may keep server access logs, which can include IP addresses, browser information, timestamps, and requested URLs. These hosting logs are separate from the Umami analytics records described below; this website does not maintain its own IP-address log.
 
 ### Cookies and Web Beacons
 
@@ -34,6 +25,8 @@ Third-party advertisers may also place and read cookies on your browser and/or u
 
 If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
 
-#### Google Analytics
+#### Umami Analytics
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+When analytics is enabled, I use Umami to understand website visits and PDF link clicks. Analytics records can include pages visited, referring sites, approximate country and city, browser, device, and operating system. Umami does not retain raw IP addresses in its analytics records. The analytics dashboard is private.
+
+PDF events record clicks to open or download a linked file. They do not confirm that a file was read or fully downloaded, and they do not cover direct visits to PDF URLs. See [Umami's data collection documentation](https://docs.umami.is/docs/collect-data).
