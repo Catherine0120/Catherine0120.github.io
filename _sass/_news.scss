@@ -9,14 +9,33 @@
 }
 
 .news-travel > summary {
+  display: flex;
+  align-items: center;
+  gap: 0.45em;
+  list-style: none;
   cursor: pointer;
+  font-weight: bold;
 }
 
-.page__content .news-travel > summary > h3 {
-  display: inline;
-  margin: 0;
-  font-size: inherit;
-  line-height: inherit;
+.news-travel > summary::marker {
+  content: "";
+}
+
+.news-travel > summary::-webkit-details-marker {
+  display: none;
+}
+
+.news-travel > summary > .news-caret {
+  flex: 0 0 auto;
+  width: 0;
+  height: 0;
+  border-top: 0.25em solid transparent;
+  border-bottom: 0.25em solid transparent;
+  border-left: 0.35em solid currentColor;
+}
+
+.news-travel[open] > summary > .news-caret {
+  transform: rotate(90deg);
 }
 
 .news-travel > summary:focus-visible {

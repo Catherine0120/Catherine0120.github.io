@@ -81,7 +81,7 @@ News
 </div>
 </section>
 <details aria-labelledby="travel" class="news-section news-travel">
-<summary class="news-section-title"><h3 id="travel">Travel</h3></summary>
+<summary class="news-section-title"><span class="news-caret" aria-hidden="true"></span><span id="travel" role="heading" aria-level="3">Travel</span></summary>
 <div class="news-list">
 <div class="news-item"><strong class="news-date">Current</strong><div class="news-content">I've been making the most of my holidays to travel around the United States and explore the culture and character of different cities.<details class="news-details"><summary>Cities and destinations visited in the US</summary><div class="news-locations">
 <div class="news-location">
